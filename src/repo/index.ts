@@ -1,20 +1,18 @@
 import { RuleDTO, TicketDTO, RuleEventDTO } from "./models/types";
 import { Sequelize } from "sequelize-typescript";
-import {
-  Rule as RuleModel,
-  Ticket as TicketModel,
-  Event as EventModel,
-} from "./models";
+import { RuleModel, TicketModel, EventModel } from "./models";
+
+export const sequelize = new Sequelize({
+  database: "some_db",
+  dialect: "sqlite",
+  username: "root",
+  password: "",
+  storage: ":memory:",
+  //models: [RuleModel, TicketModel, EventModel],
+});
 
 export function InitRepo() {
-  const sequelize = new Sequelize({
-    database: "some_db",
-    dialect: "sqlite",
-    username: "root",
-    password: "",
-    storage: ":memory:",
-    models: [RuleModel, TicketModel, EventModel],
-  });
+  sequelize.addModels([EventModel, RuleModel, TicketModel]);
 
   const serializeTickets = async (tickets: TicketDTO[]) => {
     console.log("serializing tickets");
@@ -25,10 +23,10 @@ export function InitRepo() {
   };
   const serializeRules = async (rules: RuleDTO[]) => {
     console.log("serializing rules");
-    const repo = sequelize.getRepository(RuleModel);
-    // TODO: check if it's possible to store them in batch
-    const tasks = rules.map((rule) => repo.create(rule));
-    await Promise.all(tasks);
+
+    await RuleModel.bulkCreate(rules);
+    const result = await RuleModel.findAll({ where: { name: "Rule 0" } });
+    console.log(result);
   };
   const fetchEvents = async (
     from: string,

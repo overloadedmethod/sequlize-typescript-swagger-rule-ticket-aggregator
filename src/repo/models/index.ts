@@ -9,35 +9,37 @@ import {
 } from "sequelize-typescript";
 
 @Table
-export class Rule extends Model<Rule> {
+export class RuleModel extends Model<RuleModel> {
   @PrimaryKey
   @Column
-  id: number;
+  id: string;
   @Column
   name: string;
+  @BelongsToMany(() => TicketModel, () => EventModel)
+  tickets: TicketModel[];
 }
 
 @Table
-export class Ticket extends Model<Ticket> {
+export class TicketModel extends Model<TicketModel> {
   @PrimaryKey
   @Column
-  id: number;
+  id: string;
   @Column
   title: string;
   @CreatedAt
   creation_time: Date;
   @Column
   resolution: number;
-  @BelongsToMany(() => Rule, () => Event)
-  rules: Rule[];
+  @BelongsToMany(() => RuleModel, () => EventModel)
+  rules: RuleModel[];
 }
 
 @Table
-export class Event extends Model<Event> {
-  @ForeignKey(() => Rule)
+export class EventModel extends Model<EventModel> {
+  @ForeignKey(() => RuleModel)
   @Column
-  ruleId: number;
-  @ForeignKey(() => Ticket)
+  ruleId: string;
+  @ForeignKey(() => TicketModel)
   @Column
-  ticketId: number;
+  ticketId: string;
 }

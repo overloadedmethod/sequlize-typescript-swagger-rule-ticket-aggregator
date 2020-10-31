@@ -2,7 +2,7 @@ import express from "express";
 import swaggerUI from "swagger-ui-express";
 import * as swaggerDoc from "../swagger/openapi.json";
 import { Fetch, Upload } from "./routes";
-import Repo from "./repo";
+import Repo, { sequelize } from "./repo";
 
 const repo = Repo();
 
@@ -25,7 +25,10 @@ app.get("*", function (req, res) {
   res.redirect("/docs");
 });
 
-app.listen(port, () => {
-  // tslint:disable-next-line:no-console
-  console.log(`server started at http://localhost:${port}`);
-});
+(async () => {
+  await sequelize.sync({ force: true });
+  app.listen(port, () => {
+    // tslint:disable-next-line:no-console
+    console.log(`server started at http://localhost:${port}`);
+  });
+})();

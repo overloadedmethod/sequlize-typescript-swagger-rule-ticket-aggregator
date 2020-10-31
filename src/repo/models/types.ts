@@ -7,7 +7,7 @@ declare global {
 }
 
 export type RuleDTO = {
-  id: number;
+  id: string;
   name: string;
 };
 
@@ -28,7 +28,7 @@ export enum ResolutionEnm {
 }
 
 export type TicketDTO = {
-  id: number;
+  id: string;
   title: string;
   creation_time: number;
   resolution: "TP" | "FP";
