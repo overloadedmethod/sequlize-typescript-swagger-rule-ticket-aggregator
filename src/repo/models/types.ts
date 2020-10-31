@@ -41,6 +41,7 @@ export type RuleEvent = {
   id: string;
   name: string;
   tickets: {
+    date: string;
     id: string;
     resolution: string;
     creation_time: string;

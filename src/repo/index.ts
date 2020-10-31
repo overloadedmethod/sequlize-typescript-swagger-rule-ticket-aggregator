@@ -45,13 +45,34 @@ export function InitRepo() {
     toUnixTime: number
   ): Promise<RuleEvent[]> => {
     console.log("fetching events");
+    const test = await RuleModel.findAll({
+      include: [
+        {
+          model: TicketModel,
+          as: "tickets",
+          attributes: [
+            "id",
+            "resolution",
+            "creation_time",
+            [Sequelize.fn("Date", Sequelize.col("creation_time")), "date"],
+          ],
+        },
+      ],
+      limit: 30,
+    });
+    const testResult = test.map((event) => event.toJSON()) as RuleEvent[];
 
     const events = await RuleModel.findAll({
       include: [
         {
           model: TicketModel,
           as: "tickets",
-          attributes: ["id", "resolution", "creation_time"],
+          attributes: [
+            "id",
+            "resolution",
+            "creation_time",
+            [Sequelize.fn("Date", Sequelize.col("creation_time")), "date"],
+          ],
           where: {
             creation_time: {
               $between: [

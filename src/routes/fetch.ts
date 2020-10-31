@@ -27,7 +27,7 @@ router.get("/days", async (req, res) => {
 });
 
 router.get("/weeks", async (req, res) => {
-  const from = req.params.from?? generateDaysBefore(14);
+  const from = req.params.from ?? generateDaysBefore(14);
   const to = req.params.to ?? new Date().toISOString();
   res.json([
     {
