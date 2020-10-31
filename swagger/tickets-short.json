@@ -1,0 +1,10093 @@
+[
+  {
+    "id": "292910",
+    "title": "Ticket 0",
+    "creation_time": 1587830708495,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292909",
+    "title": "Ticket 1",
+    "creation_time": 1587830081933,
+    "resolution": "FP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292908",
+    "title": "Ticket 2",
+    "creation_time": 1587829548648,
+    "resolution": "FP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292907",
+    "title": "Ticket 3",
+    "creation_time": 1587830245984,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292906",
+    "title": "Ticket 4",
+    "creation_time": 1587829794907,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292905",
+    "title": "Ticket 5",
+    "creation_time": 1587828462957,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292904",
+    "title": "Ticket 6",
+    "creation_time": 1587828141681,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292903",
+    "title": "Ticket 7",
+    "creation_time": 1587827495955,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292902",
+    "title": "Ticket 8",
+    "creation_time": 1587826985691,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292901",
+    "title": "Ticket 9",
+    "creation_time": 1587824850806,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292900",
+    "title": "Ticket 10",
+    "creation_time": 1587824818092,
+    "resolution": "TP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292899",
+    "title": "Ticket 11",
+    "creation_time": 1587822293519,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292898",
+    "title": "Ticket 12",
+    "creation_time": 1587818133397,
+    "resolution": "TP",
+    "rules": [
+      "1545",
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292897",
+    "title": "Ticket 13",
+    "creation_time": 1587817495836,
+    "resolution": "FP",
+    "rules": [
+      "1579",
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292896",
+    "title": "Ticket 14",
+    "creation_time": 1587815839960,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292895",
+    "title": "Ticket 15",
+    "creation_time": 1587815050890,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292894",
+    "title": "Ticket 16",
+    "creation_time": 1587811945601,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292893",
+    "title": "Ticket 17",
+    "creation_time": 1587813885182,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292892",
+    "title": "Ticket 18",
+    "creation_time": 1587813413210,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292891",
+    "title": "Ticket 19",
+    "creation_time": 1587811638477,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292890",
+    "title": "Ticket 20",
+    "creation_time": 1587808842310,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292889",
+    "title": "Ticket 21",
+    "creation_time": 1587806288830,
+    "resolution": "FP",
+    "rules": [
+      "1424",
+      "1185"
+    ]
+  },
+  {
+    "id": "292888",
+    "title": "Ticket 22",
+    "creation_time": 1587805682376,
+    "resolution": "TP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292887",
+    "title": "Ticket 23",
+    "creation_time": 1587795743507,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292886",
+    "title": "Ticket 24",
+    "creation_time": 1587793404328,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292885",
+    "title": "Ticket 25",
+    "creation_time": 1587791081824,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292884",
+    "title": "Ticket 26",
+    "creation_time": 1587789120756,
+    "resolution": "FP",
+    "rules": [
+      "1359"
+    ]
+  },
+  {
+    "id": "292883",
+    "title": "Ticket 27",
+    "creation_time": 1587786795749,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292882",
+    "title": "Ticket 28",
+    "creation_time": 1587786549465,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292881",
+    "title": "Ticket 29",
+    "creation_time": 1587785635586,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292880",
+    "title": "Ticket 30",
+    "creation_time": 1587778933383,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292879",
+    "title": "Ticket 31",
+    "creation_time": 1587780245216,
+    "resolution": "TP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292878",
+    "title": "Ticket 32",
+    "creation_time": 1587778170288,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292877",
+    "title": "Ticket 33",
+    "creation_time": 1587777781939,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292876",
+    "title": "Ticket 34",
+    "creation_time": 1587775440767,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292875",
+    "title": "Ticket 35",
+    "creation_time": 1587774601691,
+    "resolution": "FP",
+    "rules": [
+      "1582"
+    ]
+  },
+  {
+    "id": "292874",
+    "title": "Ticket 36",
+    "creation_time": 1587774055504,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292873",
+    "title": "Ticket 37",
+    "creation_time": 1587772225347,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292872",
+    "title": "Ticket 38",
+    "creation_time": 1587768386249,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292871",
+    "title": "Ticket 39",
+    "creation_time": 1587767587627,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292870",
+    "title": "Ticket 40",
+    "creation_time": 1587767829050,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292869",
+    "title": "Ticket 41",
+    "creation_time": 1587765703996,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292868",
+    "title": "Ticket 42",
+    "creation_time": 1587763834683,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292867",
+    "title": "Ticket 43",
+    "creation_time": 1587764411780,
+    "resolution": "FP",
+    "rules": [
+      "104826"
+    ]
+  },
+  {
+    "id": "292866",
+    "title": "Ticket 44",
+    "creation_time": 1587762532046,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292865",
+    "title": "Ticket 45",
+    "creation_time": 1587762248034,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292864",
+    "title": "Ticket 46",
+    "creation_time": 1587761460932,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292863",
+    "title": "Ticket 47",
+    "creation_time": 1587761791112,
+    "resolution": "TP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292862",
+    "title": "Ticket 48",
+    "creation_time": 1587761423407,
+    "resolution": "FP",
+    "rules": [
+      "137530"
+    ]
+  },
+  {
+    "id": "292861",
+    "title": "Ticket 49",
+    "creation_time": 1587760848359,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292860",
+    "title": "Ticket 50",
+    "creation_time": 1587760022620,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292859",
+    "title": "Ticket 51",
+    "creation_time": 1587759700674,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292858",
+    "title": "Ticket 52",
+    "creation_time": 1587759997661,
+    "resolution": "FP",
+    "rules": [
+      "1408"
+    ]
+  },
+  {
+    "id": "292857",
+    "title": "Ticket 53",
+    "creation_time": 1587758040483,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292856",
+    "title": "Ticket 54",
+    "creation_time": 1587757843274,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292855",
+    "title": "Ticket 55",
+    "creation_time": 1587757512803,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292854",
+    "title": "Ticket 56",
+    "creation_time": 1587756094566,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292853",
+    "title": "Ticket 57",
+    "creation_time": 1587755438341,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292852",
+    "title": "Ticket 58",
+    "creation_time": 1587753783049,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292851",
+    "title": "Ticket 59",
+    "creation_time": 1587754943285,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292850",
+    "title": "Ticket 60",
+    "creation_time": 1587753825186,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292849",
+    "title": "Ticket 61",
+    "creation_time": 1587753200376,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292848",
+    "title": "Ticket 62",
+    "creation_time": 1587753247041,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292847",
+    "title": "Ticket 63",
+    "creation_time": 1587753607311,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292846",
+    "title": "Ticket 64",
+    "creation_time": 1587752554669,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292845",
+    "title": "Ticket 65",
+    "creation_time": 1587752967717,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292844",
+    "title": "Ticket 66",
+    "creation_time": 1587752009518,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292843",
+    "title": "Ticket 67",
+    "creation_time": 1587752990262,
+    "resolution": "TP",
+    "rules": [
+      "1157",
+      "1197"
+    ]
+  },
+  {
+    "id": "292842",
+    "title": "Ticket 68",
+    "creation_time": 1587751137110,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292841",
+    "title": "Ticket 69",
+    "creation_time": 1587749417031,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292840",
+    "title": "Ticket 70",
+    "creation_time": 1587750360658,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292839",
+    "title": "Ticket 71",
+    "creation_time": 1587749487322,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292838",
+    "title": "Ticket 72",
+    "creation_time": 1587749584992,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292837",
+    "title": "Ticket 73",
+    "creation_time": 1587749523752,
+    "resolution": "FP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292836",
+    "title": "Ticket 74",
+    "creation_time": 1587748698204,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292835",
+    "title": "Ticket 75",
+    "creation_time": 1587746010628,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292834",
+    "title": "Ticket 76",
+    "creation_time": 1587745754673,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292833",
+    "title": "Ticket 77",
+    "creation_time": 1587746392796,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292832",
+    "title": "Ticket 78",
+    "creation_time": 1587745486202,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292831",
+    "title": "Ticket 79",
+    "creation_time": 1587746171659,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292830",
+    "title": "Ticket 80",
+    "creation_time": 1587742275836,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292829",
+    "title": "Ticket 81",
+    "creation_time": 1587744947353,
+    "resolution": "FP",
+    "rules": [
+      "154880"
+    ]
+  },
+  {
+    "id": "292828",
+    "title": "Ticket 82",
+    "creation_time": 1587744834492,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292827",
+    "title": "Ticket 83",
+    "creation_time": 1587744508621,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292826",
+    "title": "Ticket 84",
+    "creation_time": 1587743727867,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292825",
+    "title": "Ticket 85",
+    "creation_time": 1587743862916,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292824",
+    "title": "Ticket 86",
+    "creation_time": 1587743035448,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292823",
+    "title": "Ticket 87",
+    "creation_time": 1587742667737,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292822",
+    "title": "Ticket 88",
+    "creation_time": 1587742258368,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292821",
+    "title": "Ticket 89",
+    "creation_time": 1587742943835,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292820",
+    "title": "Ticket 90",
+    "creation_time": 1587742736449,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292819",
+    "title": "Ticket 91",
+    "creation_time": 1587742691620,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292818",
+    "title": "Ticket 92",
+    "creation_time": 1587742648825,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292817",
+    "title": "Ticket 93",
+    "creation_time": 1587741399756,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292816",
+    "title": "Ticket 94",
+    "creation_time": 1587741307970,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292815",
+    "title": "Ticket 95",
+    "creation_time": 1587741826804,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292814",
+    "title": "Ticket 96",
+    "creation_time": 1587739771495,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292813",
+    "title": "Ticket 97",
+    "creation_time": 1587740686876,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292812",
+    "title": "Ticket 98",
+    "creation_time": 1587740535910,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292811",
+    "title": "Ticket 99",
+    "creation_time": 1587740099761,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292810",
+    "title": "Ticket 100",
+    "creation_time": 1587739105537,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292809",
+    "title": "Ticket 101",
+    "creation_time": 1587738624374,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292808",
+    "title": "Ticket 102",
+    "creation_time": 1587738235925,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292807",
+    "title": "Ticket 103",
+    "creation_time": 1587739145734,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292806",
+    "title": "Ticket 104",
+    "creation_time": 1587738128383,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292805",
+    "title": "Ticket 105",
+    "creation_time": 1587735120937,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292804",
+    "title": "Ticket 106",
+    "creation_time": 1587737826805,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292803",
+    "title": "Ticket 107",
+    "creation_time": 1587737802884,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292802",
+    "title": "Ticket 108",
+    "creation_time": 1587737764725,
+    "resolution": "TP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292801",
+    "title": "Ticket 109",
+    "creation_time": 1587737303523,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292800",
+    "title": "Ticket 110",
+    "creation_time": 1587732968926,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292799",
+    "title": "Ticket 111",
+    "creation_time": 1587735123160,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292798",
+    "title": "Ticket 112",
+    "creation_time": 1587735110258,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292797",
+    "title": "Ticket 113",
+    "creation_time": 1587735058212,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292796",
+    "title": "Ticket 114",
+    "creation_time": 1587733794723,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292795",
+    "title": "Ticket 115",
+    "creation_time": 1587732423241,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292794",
+    "title": "Ticket 116",
+    "creation_time": 1587732788652,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292793",
+    "title": "Ticket 117",
+    "creation_time": 1587733100706,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292792",
+    "title": "Ticket 118",
+    "creation_time": 1587732130800,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292791",
+    "title": "Ticket 119",
+    "creation_time": 1587731355029,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292790",
+    "title": "Ticket 120",
+    "creation_time": 1587732276033,
+    "resolution": "TP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292789",
+    "title": "Ticket 121",
+    "creation_time": 1587731166279,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292788",
+    "title": "Ticket 122",
+    "creation_time": 1587731162721,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292787",
+    "title": "Ticket 123",
+    "creation_time": 1587731165464,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292786",
+    "title": "Ticket 124",
+    "creation_time": 1587730261090,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292785",
+    "title": "Ticket 125",
+    "creation_time": 1587730681474,
+    "resolution": "TP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292784",
+    "title": "Ticket 126",
+    "creation_time": 1587730180153,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292783",
+    "title": "Ticket 127",
+    "creation_time": 1587730024935,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292782",
+    "title": "Ticket 128",
+    "creation_time": 1587729149088,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292781",
+    "title": "Ticket 129",
+    "creation_time": 1587728960312,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292780",
+    "title": "Ticket 130",
+    "creation_time": 1587729463759,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292779",
+    "title": "Ticket 131",
+    "creation_time": 1587729438179,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292778",
+    "title": "Ticket 132",
+    "creation_time": 1587728471089,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292777",
+    "title": "Ticket 133",
+    "creation_time": 1587729024496,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292776",
+    "title": "Ticket 134",
+    "creation_time": 1587729175345,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292775",
+    "title": "Ticket 135",
+    "creation_time": 1587728622907,
+    "resolution": "FP",
+    "rules": [
+      "1545"
+    ]
+  },
+  {
+    "id": "292774",
+    "title": "Ticket 136",
+    "creation_time": 1587727723118,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292773",
+    "title": "Ticket 137",
+    "creation_time": 1587725104759,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292772",
+    "title": "Ticket 138",
+    "creation_time": 1587724512444,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292771",
+    "title": "Ticket 139",
+    "creation_time": 1587714444491,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292770",
+    "title": "Ticket 140",
+    "creation_time": 1587712641505,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292768",
+    "title": "Ticket 142",
+    "creation_time": 1587703157713,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292767",
+    "title": "Ticket 143",
+    "creation_time": 1587700381315,
+    "resolution": "FP",
+    "rules": [
+      "1403"
+    ]
+  },
+  {
+    "id": "292766",
+    "title": "Ticket 144",
+    "creation_time": 1587700308469,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292765",
+    "title": "Ticket 145",
+    "creation_time": 1587694258824,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292764",
+    "title": "Ticket 146",
+    "creation_time": 1587694980698,
+    "resolution": "TP",
+    "rules": [
+      "1403"
+    ]
+  },
+  {
+    "id": "292763",
+    "title": "Ticket 147",
+    "creation_time": 1587691948496,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292762",
+    "title": "Ticket 148",
+    "creation_time": 1587691082018,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292761",
+    "title": "Ticket 149",
+    "creation_time": 1587689305229,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292760",
+    "title": "Ticket 150",
+    "creation_time": 1587685666359,
+    "resolution": "FP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292759",
+    "title": "Ticket 151",
+    "creation_time": 1587687105539,
+    "resolution": "FP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292758",
+    "title": "Ticket 152",
+    "creation_time": 1587685785302,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292757",
+    "title": "Ticket 153",
+    "creation_time": 1587682678095,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292756",
+    "title": "Ticket 154",
+    "creation_time": 1587682188827,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292755",
+    "title": "Ticket 155",
+    "creation_time": 1587681851590,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292754",
+    "title": "Ticket 156",
+    "creation_time": 1587681235463,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292753",
+    "title": "Ticket 157",
+    "creation_time": 1587680281220,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292752",
+    "title": "Ticket 158",
+    "creation_time": 1587681265014,
+    "resolution": "FP",
+    "rules": [
+      "134230"
+    ]
+  },
+  {
+    "id": "292751",
+    "title": "Ticket 159",
+    "creation_time": 1587679999701,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292750",
+    "title": "Ticket 160",
+    "creation_time": 1587679541818,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292749",
+    "title": "Ticket 161",
+    "creation_time": 1587677944152,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292748",
+    "title": "Ticket 162",
+    "creation_time": 1587677193518,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292747",
+    "title": "Ticket 163",
+    "creation_time": 1587676050833,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292746",
+    "title": "Ticket 164",
+    "creation_time": 1587675908338,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "108524"
+    ]
+  },
+  {
+    "id": "292745",
+    "title": "Ticket 165",
+    "creation_time": 1587673755576,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292744",
+    "title": "Ticket 166",
+    "creation_time": 1587673178692,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292743",
+    "title": "Ticket 167",
+    "creation_time": 1587674243139,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292742",
+    "title": "Ticket 168",
+    "creation_time": 1587671773641,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292741",
+    "title": "Ticket 169",
+    "creation_time": 1587671553439,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292740",
+    "title": "Ticket 170",
+    "creation_time": 1587671556134,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292739",
+    "title": "Ticket 171",
+    "creation_time": 1587670777504,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292738",
+    "title": "Ticket 172",
+    "creation_time": 1587671523431,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292737",
+    "title": "Ticket 173",
+    "creation_time": 1587669900929,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292736",
+    "title": "Ticket 174",
+    "creation_time": 1587669407100,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292735",
+    "title": "Ticket 175",
+    "creation_time": 1587669962274,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292734",
+    "title": "Ticket 176",
+    "creation_time": 1587668911568,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292733",
+    "title": "Ticket 177",
+    "creation_time": 1587669457990,
+    "resolution": "FP",
+    "rules": [
+      "123924"
+    ]
+  },
+  {
+    "id": "292732",
+    "title": "Ticket 178",
+    "creation_time": 1587669457990,
+    "resolution": "TP",
+    "rules": [
+      "123924"
+    ]
+  },
+  {
+    "id": "292731",
+    "title": "Ticket 179",
+    "creation_time": 1587669457990,
+    "resolution": "TP",
+    "rules": [
+      "104924"
+    ]
+  },
+  {
+    "id": "292730",
+    "title": "Ticket 180",
+    "creation_time": 1587669300544,
+    "resolution": "TP",
+    "rules": [
+      "145480"
+    ]
+  },
+  {
+    "id": "292729",
+    "title": "Ticket 181",
+    "creation_time": 1587669034075,
+    "resolution": "FP",
+    "rules": [
+      "1395"
+    ]
+  },
+  {
+    "id": "292728",
+    "title": "Ticket 182",
+    "creation_time": 1587667853406,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292727",
+    "title": "Ticket 183",
+    "creation_time": 1587668413032,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292726",
+    "title": "Ticket 184",
+    "creation_time": 1587664964698,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292725",
+    "title": "Ticket 185",
+    "creation_time": 1587664417940,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292724",
+    "title": "Ticket 186",
+    "creation_time": 1587663964140,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292723",
+    "title": "Ticket 187",
+    "creation_time": 1587664277974,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292722",
+    "title": "Ticket 188",
+    "creation_time": 1587664047680,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292721",
+    "title": "Ticket 189",
+    "creation_time": 1587664267192,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292720",
+    "title": "Ticket 190",
+    "creation_time": 1587664009003,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292719",
+    "title": "Ticket 191",
+    "creation_time": 1587663782460,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292718",
+    "title": "Ticket 192",
+    "creation_time": 1587663503750,
+    "resolution": "FP",
+    "rules": [
+      "1582"
+    ]
+  },
+  {
+    "id": "292717",
+    "title": "Ticket 193",
+    "creation_time": 1587663503447,
+    "resolution": "TP",
+    "rules": [
+      "1424",
+      "1185"
+    ]
+  },
+  {
+    "id": "292716",
+    "title": "Ticket 194",
+    "creation_time": 1587662272538,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292715",
+    "title": "Ticket 195",
+    "creation_time": 1587662126056,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292714",
+    "title": "Ticket 196",
+    "creation_time": 1587662561469,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292713",
+    "title": "Ticket 197",
+    "creation_time": 1587662368451,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292712",
+    "title": "Ticket 198",
+    "creation_time": 1587661075951,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292711",
+    "title": "Ticket 199",
+    "creation_time": 1587660982656,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292710",
+    "title": "Ticket 200",
+    "creation_time": 1587660205771,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292709",
+    "title": "Ticket 201",
+    "creation_time": 1587660108254,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292708",
+    "title": "Ticket 202",
+    "creation_time": 1587658328686,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292707",
+    "title": "Ticket 203",
+    "creation_time": 1587658341652,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292706",
+    "title": "Ticket 204",
+    "creation_time": 1587658189762,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292705",
+    "title": "Ticket 205",
+    "creation_time": 1587658621029,
+    "resolution": "FP",
+    "rules": [
+      "1424",
+      "1185"
+    ]
+  },
+  {
+    "id": "292704",
+    "title": "Ticket 206",
+    "creation_time": 1587658058244,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292703",
+    "title": "Ticket 207",
+    "creation_time": 1587658051308,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292702",
+    "title": "Ticket 208",
+    "creation_time": 1587657906404,
+    "resolution": "FP",
+    "rules": [
+      "1544",
+      "145580"
+    ]
+  },
+  {
+    "id": "292701",
+    "title": "Ticket 209",
+    "creation_time": 1587657906429,
+    "resolution": "FP",
+    "rules": [
+      "145580",
+      "1544"
+    ]
+  },
+  {
+    "id": "292700",
+    "title": "Ticket 210",
+    "creation_time": 1587657594954,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292699",
+    "title": "Ticket 211",
+    "creation_time": 1587656090576,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292698",
+    "title": "Ticket 212",
+    "creation_time": 1587655752402,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292697",
+    "title": "Ticket 213",
+    "creation_time": 1587656891982,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292696",
+    "title": "Ticket 214",
+    "creation_time": 1587656123570,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292695",
+    "title": "Ticket 215",
+    "creation_time": 1587655982966,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292694",
+    "title": "Ticket 216",
+    "creation_time": 1587656028693,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292693",
+    "title": "Ticket 217",
+    "creation_time": 1587654670096,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292692",
+    "title": "Ticket 218",
+    "creation_time": 1587653828767,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292691",
+    "title": "Ticket 219",
+    "creation_time": 1587653860134,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292690",
+    "title": "Ticket 220",
+    "creation_time": 1587653197367,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292689",
+    "title": "Ticket 221",
+    "creation_time": 1587653180488,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292688",
+    "title": "Ticket 222",
+    "creation_time": 1587653046411,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292687",
+    "title": "Ticket 223",
+    "creation_time": 1587651795788,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292686",
+    "title": "Ticket 224",
+    "creation_time": 1587652921051,
+    "resolution": "FP",
+    "rules": [
+      "108524"
+    ]
+  },
+  {
+    "id": "292685",
+    "title": "Ticket 225",
+    "creation_time": 1587651748174,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292684",
+    "title": "Ticket 226",
+    "creation_time": 1587652586366,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292683",
+    "title": "Ticket 227",
+    "creation_time": 1587652462578,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292682",
+    "title": "Ticket 228",
+    "creation_time": 1587651242550,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292681",
+    "title": "Ticket 229",
+    "creation_time": 1587651030910,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292680",
+    "title": "Ticket 230",
+    "creation_time": 1587651900552,
+    "resolution": "TP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292679",
+    "title": "Ticket 231",
+    "creation_time": 1587650707168,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292678",
+    "title": "Ticket 232",
+    "creation_time": 1587650227778,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292677",
+    "title": "Ticket 233",
+    "creation_time": 1587649564462,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292676",
+    "title": "Ticket 234",
+    "creation_time": 1587650160194,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292675",
+    "title": "Ticket 235",
+    "creation_time": 1587649711106,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292674",
+    "title": "Ticket 236",
+    "creation_time": 1587649164235,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292673",
+    "title": "Ticket 237",
+    "creation_time": 1587649098832,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292672",
+    "title": "Ticket 238",
+    "creation_time": 1587649440723,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292671",
+    "title": "Ticket 239",
+    "creation_time": 1587648556566,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292670",
+    "title": "Ticket 240",
+    "creation_time": 1587649320683,
+    "resolution": "TP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292669",
+    "title": "Ticket 241",
+    "creation_time": 1587648642316,
+    "resolution": "FP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292668",
+    "title": "Ticket 242",
+    "creation_time": 1587648350588,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292667",
+    "title": "Ticket 243",
+    "creation_time": 1587647180055,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292666",
+    "title": "Ticket 244",
+    "creation_time": 1587647611607,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292665",
+    "title": "Ticket 245",
+    "creation_time": 1587647731067,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292664",
+    "title": "Ticket 246",
+    "creation_time": 1587647076430,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292663",
+    "title": "Ticket 247",
+    "creation_time": 1587647460804,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292662",
+    "title": "Ticket 248",
+    "creation_time": 1587647396608,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292661",
+    "title": "Ticket 249",
+    "creation_time": 1587645484306,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292660",
+    "title": "Ticket 250",
+    "creation_time": 1587646565228,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292659",
+    "title": "Ticket 251",
+    "creation_time": 1587646467487,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292658",
+    "title": "Ticket 252",
+    "creation_time": 1587646598284,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292657",
+    "title": "Ticket 253",
+    "creation_time": 1587646675371,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292656",
+    "title": "Ticket 254",
+    "creation_time": 1587646743284,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292655",
+    "title": "Ticket 255",
+    "creation_time": 1587645316083,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292654",
+    "title": "Ticket 256",
+    "creation_time": 1587645398825,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292653",
+    "title": "Ticket 257",
+    "creation_time": 1587645257362,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292652",
+    "title": "Ticket 258",
+    "creation_time": 1587646274876,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292651",
+    "title": "Ticket 259",
+    "creation_time": 1587645216609,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292650",
+    "title": "Ticket 260",
+    "creation_time": 1587645055526,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292649",
+    "title": "Ticket 261",
+    "creation_time": 1587644836519,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292648",
+    "title": "Ticket 262",
+    "creation_time": 1587644889041,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292647",
+    "title": "Ticket 263",
+    "creation_time": 1587645701242,
+    "resolution": "FP",
+    "rules": [
+      "1424",
+      "1185"
+    ]
+  },
+  {
+    "id": "292646",
+    "title": "Ticket 264",
+    "creation_time": 1587645156542,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292645",
+    "title": "Ticket 265",
+    "creation_time": 1587644748887,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292644",
+    "title": "Ticket 266",
+    "creation_time": 1587644205056,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292643",
+    "title": "Ticket 267",
+    "creation_time": 1587644478165,
+    "resolution": "FP",
+    "rules": [
+      "108524"
+    ]
+  },
+  {
+    "id": "292642",
+    "title": "Ticket 268",
+    "creation_time": 1587643307836,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292641",
+    "title": "Ticket 269",
+    "creation_time": 1587642776093,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292640",
+    "title": "Ticket 270",
+    "creation_time": 1587641851697,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292639",
+    "title": "Ticket 271",
+    "creation_time": 1587641202061,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292638",
+    "title": "Ticket 272",
+    "creation_time": 1587641677318,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197",
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292637",
+    "title": "Ticket 273",
+    "creation_time": 1587639126664,
+    "resolution": "TP",
+    "rules": [
+      "1403"
+    ]
+  },
+  {
+    "id": "292636",
+    "title": "Ticket 274",
+    "creation_time": 1587638546616,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292635",
+    "title": "Ticket 275",
+    "creation_time": 1587637178185,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292634",
+    "title": "Ticket 276",
+    "creation_time": 1587634034887,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292633",
+    "title": "Ticket 277",
+    "creation_time": 1587630971906,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292632",
+    "title": "Ticket 278",
+    "creation_time": 1587629611047,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292631",
+    "title": "Ticket 279",
+    "creation_time": 1587628206059,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292630",
+    "title": "Ticket 280",
+    "creation_time": 1587624203344,
+    "resolution": "FP",
+    "rules": [
+      "1408"
+    ]
+  },
+  {
+    "id": "292629",
+    "title": "Ticket 281",
+    "creation_time": 1587620824764,
+    "resolution": "TP",
+    "rules": [
+      "1582"
+    ]
+  },
+  {
+    "id": "292628",
+    "title": "Ticket 282",
+    "creation_time": 1587620301057,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292627",
+    "title": "Ticket 283",
+    "creation_time": 1587620100971,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292626",
+    "title": "Ticket 284",
+    "creation_time": 1587617572287,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292625",
+    "title": "Ticket 285",
+    "creation_time": 1587615632216,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292624",
+    "title": "Ticket 286",
+    "creation_time": 1587612361379,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292623",
+    "title": "Ticket 287",
+    "creation_time": 1587611388065,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292622",
+    "title": "Ticket 288",
+    "creation_time": 1587610928674,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292621",
+    "title": "Ticket 289",
+    "creation_time": 1587608490283,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292620",
+    "title": "Ticket 290",
+    "creation_time": 1587602969199,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292619",
+    "title": "Ticket 291",
+    "creation_time": 1587602071078,
+    "resolution": "TP",
+    "rules": [
+      "1512"
+    ]
+  },
+  {
+    "id": "292618",
+    "title": "Ticket 292",
+    "creation_time": 1587598200107,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292617",
+    "title": "Ticket 293",
+    "creation_time": 1587595195939,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292616",
+    "title": "Ticket 294",
+    "creation_time": 1587595053094,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292615",
+    "title": "Ticket 295",
+    "creation_time": 1587594832512,
+    "resolution": "FP",
+    "rules": [
+      "1424",
+      "1185"
+    ]
+  },
+  {
+    "id": "292614",
+    "title": "Ticket 296",
+    "creation_time": 1587594477060,
+    "resolution": "TP",
+    "rules": [
+      "1476"
+    ]
+  },
+  {
+    "id": "292613",
+    "title": "Ticket 297",
+    "creation_time": 1587590049519,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292612",
+    "title": "Ticket 298",
+    "creation_time": 1587591098778,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292611",
+    "title": "Ticket 299",
+    "creation_time": 1587589774220,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292610",
+    "title": "Ticket 300",
+    "creation_time": 1587589087736,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292609",
+    "title": "Ticket 301",
+    "creation_time": 1587587354053,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292608",
+    "title": "Ticket 302",
+    "creation_time": 1587587607211,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292607",
+    "title": "Ticket 303",
+    "creation_time": 1587587338630,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292606",
+    "title": "Ticket 304",
+    "creation_time": 1587587810871,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292605",
+    "title": "Ticket 305",
+    "creation_time": 1587586389120,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292604",
+    "title": "Ticket 306",
+    "creation_time": 1587586022412,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292603",
+    "title": "Ticket 307",
+    "creation_time": 1587585243152,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292602",
+    "title": "Ticket 308",
+    "creation_time": 1587586154306,
+    "resolution": "TP",
+    "rules": [
+      "1408"
+    ]
+  },
+  {
+    "id": "292601",
+    "title": "Ticket 309",
+    "creation_time": 1587584814449,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292600",
+    "title": "Ticket 310",
+    "creation_time": 1587584247112,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292599",
+    "title": "Ticket 311",
+    "creation_time": 1587584096720,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292598",
+    "title": "Ticket 312",
+    "creation_time": 1587580355572,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292597",
+    "title": "Ticket 313",
+    "creation_time": 1587581614094,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292596",
+    "title": "Ticket 314",
+    "creation_time": 1587581480486,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292595",
+    "title": "Ticket 315",
+    "creation_time": 1587581653648,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292594",
+    "title": "Ticket 316",
+    "creation_time": 1587582336804,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292593",
+    "title": "Ticket 317",
+    "creation_time": 1587576876493,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292592",
+    "title": "Ticket 318",
+    "creation_time": 1587576666000,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292591",
+    "title": "Ticket 319",
+    "creation_time": 1587577462615,
+    "resolution": "FP",
+    "rules": [
+      "1191"
+    ]
+  },
+  {
+    "id": "292590",
+    "title": "Ticket 320",
+    "creation_time": 1587575422257,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292589",
+    "title": "Ticket 321",
+    "creation_time": 1587574613271,
+    "resolution": "TP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292588",
+    "title": "Ticket 322",
+    "creation_time": 1587573971967,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292587",
+    "title": "Ticket 323",
+    "creation_time": 1587574661784,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292586",
+    "title": "Ticket 324",
+    "creation_time": 1587574297386,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292585",
+    "title": "Ticket 325",
+    "creation_time": 1587573068818,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292584",
+    "title": "Ticket 326",
+    "creation_time": 1587573075662,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292583",
+    "title": "Ticket 327",
+    "creation_time": 1587572156100,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292582",
+    "title": "Ticket 328",
+    "creation_time": 1587572498168,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292581",
+    "title": "Ticket 329",
+    "creation_time": 1587572220874,
+    "resolution": "TP",
+    "rules": [
+      "1359",
+      "1184",
+      "1197"
+    ]
+  },
+  {
+    "id": "292580",
+    "title": "Ticket 330",
+    "creation_time": 1587571485688,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292579",
+    "title": "Ticket 331",
+    "creation_time": 1587571143648,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292578",
+    "title": "Ticket 332",
+    "creation_time": 1587570539096,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292577",
+    "title": "Ticket 333",
+    "creation_time": 1587568597279,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292576",
+    "title": "Ticket 334",
+    "creation_time": 1587568704150,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292575",
+    "title": "Ticket 335",
+    "creation_time": 1587567735288,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292574",
+    "title": "Ticket 336",
+    "creation_time": 1587567458126,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292573",
+    "title": "Ticket 337",
+    "creation_time": 1587566858485,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292572",
+    "title": "Ticket 338",
+    "creation_time": 1587567723591,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292571",
+    "title": "Ticket 339",
+    "creation_time": 1587566216314,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292570",
+    "title": "Ticket 340",
+    "creation_time": 1587567126441,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292569",
+    "title": "Ticket 341",
+    "creation_time": 1587566957753,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292568",
+    "title": "Ticket 342",
+    "creation_time": 1587566880707,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292567",
+    "title": "Ticket 343",
+    "creation_time": 1587566950541,
+    "resolution": "FP",
+    "rules": [
+      "1545"
+    ]
+  },
+  {
+    "id": "292566",
+    "title": "Ticket 344",
+    "creation_time": 1587565782364,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292565",
+    "title": "Ticket 345",
+    "creation_time": 1587564790008,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292564",
+    "title": "Ticket 346",
+    "creation_time": 1587564308788,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292563",
+    "title": "Ticket 347",
+    "creation_time": 1587564349786,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292562",
+    "title": "Ticket 348",
+    "creation_time": 1587565150870,
+    "resolution": "FP",
+    "rules": [
+      "1512"
+    ]
+  },
+  {
+    "id": "292561",
+    "title": "Ticket 349",
+    "creation_time": 1587564107924,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292560",
+    "title": "Ticket 350",
+    "creation_time": 1587563768739,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292559",
+    "title": "Ticket 351",
+    "creation_time": 1587563741740,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292558",
+    "title": "Ticket 352",
+    "creation_time": 1587563409260,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292557",
+    "title": "Ticket 353",
+    "creation_time": 1587563045584,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292556",
+    "title": "Ticket 354",
+    "creation_time": 1587564018257,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292555",
+    "title": "Ticket 355",
+    "creation_time": 1587563994250,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292554",
+    "title": "Ticket 356",
+    "creation_time": 1587562420734,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292553",
+    "title": "Ticket 357",
+    "creation_time": 1587563191832,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292552",
+    "title": "Ticket 358",
+    "creation_time": 1587563123787,
+    "resolution": "TP",
+    "rules": [
+      "100038",
+      "144130"
+    ]
+  },
+  {
+    "id": "292551",
+    "title": "Ticket 359",
+    "creation_time": 1587561743303,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292550",
+    "title": "Ticket 360",
+    "creation_time": 1587561984075,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292549",
+    "title": "Ticket 361",
+    "creation_time": 1587562245587,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292548",
+    "title": "Ticket 362",
+    "creation_time": 1587561662130,
+    "resolution": "TP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292547",
+    "title": "Ticket 363",
+    "creation_time": 1587561793198,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292546",
+    "title": "Ticket 364",
+    "creation_time": 1587560786235,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292545",
+    "title": "Ticket 365",
+    "creation_time": 1587561147583,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292544",
+    "title": "Ticket 366",
+    "creation_time": 1587560760048,
+    "resolution": "FP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292543",
+    "title": "Ticket 367",
+    "creation_time": 1587560061458,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292542",
+    "title": "Ticket 368",
+    "creation_time": 1587559967394,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292541",
+    "title": "Ticket 369",
+    "creation_time": 1587560644098,
+    "resolution": "TP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292540",
+    "title": "Ticket 370",
+    "creation_time": 1587560265430,
+    "resolution": "FP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292539",
+    "title": "Ticket 371",
+    "creation_time": 1587560637568,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292538",
+    "title": "Ticket 372",
+    "creation_time": 1587560395787,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292537",
+    "title": "Ticket 373",
+    "creation_time": 1587560223679,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292536",
+    "title": "Ticket 374",
+    "creation_time": 1587559832033,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292535",
+    "title": "Ticket 375",
+    "creation_time": 1587559323045,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292534",
+    "title": "Ticket 376",
+    "creation_time": 1587559265493,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292533",
+    "title": "Ticket 377",
+    "creation_time": 1587559683929,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292532",
+    "title": "Ticket 378",
+    "creation_time": 1587560000050,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292531",
+    "title": "Ticket 379",
+    "creation_time": 1587559056748,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292530",
+    "title": "Ticket 380",
+    "creation_time": 1587559854282,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292529",
+    "title": "Ticket 381",
+    "creation_time": 1587559677768,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292528",
+    "title": "Ticket 382",
+    "creation_time": 1587559546006,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292527",
+    "title": "Ticket 383",
+    "creation_time": 1587558947376,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292526",
+    "title": "Ticket 384",
+    "creation_time": 1587559445388,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292525",
+    "title": "Ticket 385",
+    "creation_time": 1587559277207,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292524",
+    "title": "Ticket 386",
+    "creation_time": 1587559223026,
+    "resolution": "TP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292523",
+    "title": "Ticket 387",
+    "creation_time": 1587558586469,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292522",
+    "title": "Ticket 388",
+    "creation_time": 1587557948797,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292521",
+    "title": "Ticket 389",
+    "creation_time": 1587558055825,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292520",
+    "title": "Ticket 390",
+    "creation_time": 1587558468393,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292519",
+    "title": "Ticket 391",
+    "creation_time": 1587558662678,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292518",
+    "title": "Ticket 392",
+    "creation_time": 1587558580568,
+    "resolution": "TP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292517",
+    "title": "Ticket 393",
+    "creation_time": 1587558401040,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292516",
+    "title": "Ticket 394",
+    "creation_time": 1587557535846,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292515",
+    "title": "Ticket 395",
+    "creation_time": 1587558088818,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292514",
+    "title": "Ticket 396",
+    "creation_time": 1587558324585,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292513",
+    "title": "Ticket 397",
+    "creation_time": 1587557273614,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292512",
+    "title": "Ticket 398",
+    "creation_time": 1587558242184,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292511",
+    "title": "Ticket 399",
+    "creation_time": 1587557031381,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292510",
+    "title": "Ticket 400",
+    "creation_time": 1587557241863,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292509",
+    "title": "Ticket 401",
+    "creation_time": 1587557209760,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292508",
+    "title": "Ticket 402",
+    "creation_time": 1587556955366,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292507",
+    "title": "Ticket 403",
+    "creation_time": 1587557400535,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292506",
+    "title": "Ticket 404",
+    "creation_time": 1587557273691,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292505",
+    "title": "Ticket 405",
+    "creation_time": 1587556465117,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292504",
+    "title": "Ticket 406",
+    "creation_time": 1587556692229,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292503",
+    "title": "Ticket 407",
+    "creation_time": 1587556651163,
+    "resolution": "TP",
+    "rules": [
+      "1582"
+    ]
+  },
+  {
+    "id": "292502",
+    "title": "Ticket 408",
+    "creation_time": 1587556905311,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292501",
+    "title": "Ticket 409",
+    "creation_time": 1587556963849,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292500",
+    "title": "Ticket 410",
+    "creation_time": 1587556720798,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292499",
+    "title": "Ticket 411",
+    "creation_time": 1587556703500,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292498",
+    "title": "Ticket 412",
+    "creation_time": 1587555687915,
+    "resolution": "FP",
+    "rules": [
+      "1582"
+    ]
+  },
+  {
+    "id": "292497",
+    "title": "Ticket 413",
+    "creation_time": 1587554622001,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1582",
+      "1197",
+      "1594"
+    ]
+  },
+  {
+    "id": "292496",
+    "title": "Ticket 414",
+    "creation_time": 1587549374400,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1188"
+    ]
+  },
+  {
+    "id": "292495",
+    "title": "Ticket 415",
+    "creation_time": 1587548774557,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292494",
+    "title": "Ticket 416",
+    "creation_time": 1587546566535,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292493",
+    "title": "Ticket 417",
+    "creation_time": 1587546736112,
+    "resolution": "TP",
+    "rules": [
+      "1512"
+    ]
+  },
+  {
+    "id": "292492",
+    "title": "Ticket 418",
+    "creation_time": 1587545336067,
+    "resolution": "FP",
+    "rules": [
+      "1191",
+      "1197"
+    ]
+  },
+  {
+    "id": "292491",
+    "title": "Ticket 419",
+    "creation_time": 1587544258954,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292490",
+    "title": "Ticket 420",
+    "creation_time": 1587543175715,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292489",
+    "title": "Ticket 421",
+    "creation_time": 1587543134548,
+    "resolution": "FP",
+    "rules": [
+      "1424",
+      "1185"
+    ]
+  },
+  {
+    "id": "292488",
+    "title": "Ticket 422",
+    "creation_time": 1587542018734,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292487",
+    "title": "Ticket 423",
+    "creation_time": 1587539353905,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292486",
+    "title": "Ticket 424",
+    "creation_time": 1587538925415,
+    "resolution": "TP",
+    "rules": [
+      "1545"
+    ]
+  },
+  {
+    "id": "292485",
+    "title": "Ticket 425",
+    "creation_time": 1587539129240,
+    "resolution": "TP",
+    "rules": [
+      "138230"
+    ]
+  },
+  {
+    "id": "292484",
+    "title": "Ticket 426",
+    "creation_time": 1587537420477,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292483",
+    "title": "Ticket 427",
+    "creation_time": 1587537188421,
+    "resolution": "FP",
+    "rules": [
+      "144980"
+    ]
+  },
+  {
+    "id": "292482",
+    "title": "Ticket 428",
+    "creation_time": 1587535717038,
+    "resolution": "TP",
+    "rules": [
+      "1431"
+    ]
+  },
+  {
+    "id": "292481",
+    "title": "Ticket 429",
+    "creation_time": 1587529891619,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292480",
+    "title": "Ticket 430",
+    "creation_time": 1587529411269,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292479",
+    "title": "Ticket 431",
+    "creation_time": 1587524926928,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292478",
+    "title": "Ticket 432",
+    "creation_time": 1587525444808,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292477",
+    "title": "Ticket 433",
+    "creation_time": 1587524489259,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292476",
+    "title": "Ticket 434",
+    "creation_time": 1587523080998,
+    "resolution": "FP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292475",
+    "title": "Ticket 435",
+    "creation_time": 1587522984023,
+    "resolution": "FP",
+    "rules": [
+      "1424",
+      "1185"
+    ]
+  },
+  {
+    "id": "292474",
+    "title": "Ticket 436",
+    "creation_time": 1587522667520,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292473",
+    "title": "Ticket 437",
+    "creation_time": 1587521880030,
+    "resolution": "TP",
+    "rules": [
+      "1403"
+    ]
+  },
+  {
+    "id": "292472",
+    "title": "Ticket 438",
+    "creation_time": 1587519616506,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292471",
+    "title": "Ticket 439",
+    "creation_time": 1587518825721,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292470",
+    "title": "Ticket 440",
+    "creation_time": 1587517727937,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292469",
+    "title": "Ticket 441",
+    "creation_time": 1587517989812,
+    "resolution": "FP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292468",
+    "title": "Ticket 442",
+    "creation_time": 1587517845885,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292467",
+    "title": "Ticket 443",
+    "creation_time": 1587516473155,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292466",
+    "title": "Ticket 444",
+    "creation_time": 1587515509429,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292465",
+    "title": "Ticket 445",
+    "creation_time": 1587514807267,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292464",
+    "title": "Ticket 446",
+    "creation_time": 1587514443726,
+    "resolution": "FP",
+    "rules": [
+      "1403"
+    ]
+  },
+  {
+    "id": "292463",
+    "title": "Ticket 447",
+    "creation_time": 1587512420818,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292462",
+    "title": "Ticket 448",
+    "creation_time": 1587512040317,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292461",
+    "title": "Ticket 449",
+    "creation_time": 1587510588804,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292460",
+    "title": "Ticket 450",
+    "creation_time": 1587506750087,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292459",
+    "title": "Ticket 451",
+    "creation_time": 1587503827588,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292458",
+    "title": "Ticket 452",
+    "creation_time": 1587503045731,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292457",
+    "title": "Ticket 453",
+    "creation_time": 1587503820384,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292456",
+    "title": "Ticket 454",
+    "creation_time": 1587503707331,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292455",
+    "title": "Ticket 455",
+    "creation_time": 1587503212370,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292454",
+    "title": "Ticket 456",
+    "creation_time": 1587501126646,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292453",
+    "title": "Ticket 457",
+    "creation_time": 1587501983832,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292452",
+    "title": "Ticket 458",
+    "creation_time": 1587500971722,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292451",
+    "title": "Ticket 459",
+    "creation_time": 1587500235199,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292450",
+    "title": "Ticket 460",
+    "creation_time": 1587498578672,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292449",
+    "title": "Ticket 461",
+    "creation_time": 1587497933471,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292448",
+    "title": "Ticket 462",
+    "creation_time": 1587497386444,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292447",
+    "title": "Ticket 463",
+    "creation_time": 1587497386364,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292446",
+    "title": "Ticket 464",
+    "creation_time": 1587497386623,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292445",
+    "title": "Ticket 465",
+    "creation_time": 1587497288776,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292444",
+    "title": "Ticket 466",
+    "creation_time": 1587497120100,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292443",
+    "title": "Ticket 467",
+    "creation_time": 1587496452753,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292442",
+    "title": "Ticket 468",
+    "creation_time": 1587496674398,
+    "resolution": "TP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292441",
+    "title": "Ticket 469",
+    "creation_time": 1587495760106,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292440",
+    "title": "Ticket 470",
+    "creation_time": 1587495156693,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292439",
+    "title": "Ticket 471",
+    "creation_time": 1587496032125,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1191"
+    ]
+  },
+  {
+    "id": "292438",
+    "title": "Ticket 472",
+    "creation_time": 1587494869766,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292437",
+    "title": "Ticket 473",
+    "creation_time": 1587494160042,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292436",
+    "title": "Ticket 474",
+    "creation_time": 1587493928114,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292435",
+    "title": "Ticket 475",
+    "creation_time": 1587493997160,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292434",
+    "title": "Ticket 476",
+    "creation_time": 1587493732148,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292433",
+    "title": "Ticket 477",
+    "creation_time": 1587493562203,
+    "resolution": "FP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292432",
+    "title": "Ticket 478",
+    "creation_time": 1587493075392,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292431",
+    "title": "Ticket 479",
+    "creation_time": 1587493351446,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292430",
+    "title": "Ticket 480",
+    "creation_time": 1587493527127,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292429",
+    "title": "Ticket 481",
+    "creation_time": 1587492744696,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292428",
+    "title": "Ticket 482",
+    "creation_time": 1587491760088,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292427",
+    "title": "Ticket 483",
+    "creation_time": 1587491238084,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292426",
+    "title": "Ticket 484",
+    "creation_time": 1587492303387,
+    "resolution": "FP",
+    "rules": [
+      "102277",
+      "154837"
+    ]
+  },
+  {
+    "id": "292425",
+    "title": "Ticket 485",
+    "creation_time": 1587490246033,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292424",
+    "title": "Ticket 486",
+    "creation_time": 1587489660568,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292423",
+    "title": "Ticket 487",
+    "creation_time": 1587489895708,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292422",
+    "title": "Ticket 488",
+    "creation_time": 1587489960438,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292421",
+    "title": "Ticket 489",
+    "creation_time": 1587488593907,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292420",
+    "title": "Ticket 490",
+    "creation_time": 1587488726812,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292419",
+    "title": "Ticket 491",
+    "creation_time": 1587489074794,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292418",
+    "title": "Ticket 492",
+    "creation_time": 1587487338982,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292417",
+    "title": "Ticket 493",
+    "creation_time": 1587487984646,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292416",
+    "title": "Ticket 494",
+    "creation_time": 1587485761146,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292415",
+    "title": "Ticket 495",
+    "creation_time": 1587484942405,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292414",
+    "title": "Ticket 496",
+    "creation_time": 1587486029546,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292413",
+    "title": "Ticket 497",
+    "creation_time": 1587484792159,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292412",
+    "title": "Ticket 498",
+    "creation_time": 1587484732289,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292411",
+    "title": "Ticket 499",
+    "creation_time": 1587484367818,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292410",
+    "title": "Ticket 500",
+    "creation_time": 1587484816577,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292409",
+    "title": "Ticket 501",
+    "creation_time": 1587484137088,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292408",
+    "title": "Ticket 502",
+    "creation_time": 1587484879965,
+    "resolution": "TP",
+    "rules": [
+      "102274"
+    ]
+  },
+  {
+    "id": "292407",
+    "title": "Ticket 503",
+    "creation_time": 1587485039046,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292406",
+    "title": "Ticket 504",
+    "creation_time": 1587484157465,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292405",
+    "title": "Ticket 505",
+    "creation_time": 1587483665376,
+    "resolution": "TP",
+    "rules": [
+      "132684",
+      "142380"
+    ]
+  },
+  {
+    "id": "292404",
+    "title": "Ticket 506",
+    "creation_time": 1587483185634,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292403",
+    "title": "Ticket 507",
+    "creation_time": 1587484028824,
+    "resolution": "FP",
+    "rules": [
+      "108524"
+    ]
+  },
+  {
+    "id": "292402",
+    "title": "Ticket 508",
+    "creation_time": 1587482821137,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292401",
+    "title": "Ticket 509",
+    "creation_time": 1587482848842,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292400",
+    "title": "Ticket 510",
+    "creation_time": 1587482812956,
+    "resolution": "TP",
+    "rules": [
+      "1582"
+    ]
+  },
+  {
+    "id": "292399",
+    "title": "Ticket 511",
+    "creation_time": 1587483060289,
+    "resolution": "TP",
+    "rules": [
+      "1403"
+    ]
+  },
+  {
+    "id": "292398",
+    "title": "Ticket 512",
+    "creation_time": 1587481927429,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292397",
+    "title": "Ticket 513",
+    "creation_time": 1587481119706,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292396",
+    "title": "Ticket 514",
+    "creation_time": 1587480731469,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292395",
+    "title": "Ticket 515",
+    "creation_time": 1587481740854,
+    "resolution": "TP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292394",
+    "title": "Ticket 516",
+    "creation_time": 1587480690141,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292393",
+    "title": "Ticket 517",
+    "creation_time": 1587480514360,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292392",
+    "title": "Ticket 518",
+    "creation_time": 1587481257446,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292391",
+    "title": "Ticket 519",
+    "creation_time": 1587479806686,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292390",
+    "title": "Ticket 520",
+    "creation_time": 1587479210703,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292389",
+    "title": "Ticket 521",
+    "creation_time": 1587480248315,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292388",
+    "title": "Ticket 522",
+    "creation_time": 1587479581532,
+    "resolution": "TP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292387",
+    "title": "Ticket 523",
+    "creation_time": 1587479004795,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292386",
+    "title": "Ticket 524",
+    "creation_time": 1587477912582,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292385",
+    "title": "Ticket 525",
+    "creation_time": 1587478028784,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292384",
+    "title": "Ticket 526",
+    "creation_time": 1587477130207,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292383",
+    "title": "Ticket 527",
+    "creation_time": 1587477104520,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292382",
+    "title": "Ticket 528",
+    "creation_time": 1587476065350,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292381",
+    "title": "Ticket 529",
+    "creation_time": 1587476071288,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292380",
+    "title": "Ticket 530",
+    "creation_time": 1587475340747,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292379",
+    "title": "Ticket 531",
+    "creation_time": 1587474675361,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292378",
+    "title": "Ticket 532",
+    "creation_time": 1587474405366,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292377",
+    "title": "Ticket 533",
+    "creation_time": 1587474430359,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292376",
+    "title": "Ticket 534",
+    "creation_time": 1587475207384,
+    "resolution": "TP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292375",
+    "title": "Ticket 535",
+    "creation_time": 1587474076955,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292374",
+    "title": "Ticket 536",
+    "creation_time": 1587475062860,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292373",
+    "title": "Ticket 537",
+    "creation_time": 1587474577091,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292372",
+    "title": "Ticket 538",
+    "creation_time": 1587474378604,
+    "resolution": "FP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292371",
+    "title": "Ticket 539",
+    "creation_time": 1587473911667,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292370",
+    "title": "Ticket 540",
+    "creation_time": 1587473927276,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292369",
+    "title": "Ticket 541",
+    "creation_time": 1587473232854,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292368",
+    "title": "Ticket 542",
+    "creation_time": 1587473232830,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292367",
+    "title": "Ticket 543",
+    "creation_time": 1587473185875,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292366",
+    "title": "Ticket 544",
+    "creation_time": 1587473767170,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292365",
+    "title": "Ticket 545",
+    "creation_time": 1587473701025,
+    "resolution": "TP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292364",
+    "title": "Ticket 546",
+    "creation_time": 1587473952677,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292363",
+    "title": "Ticket 547",
+    "creation_time": 1587472741823,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292362",
+    "title": "Ticket 548",
+    "creation_time": 1587472736041,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292361",
+    "title": "Ticket 549",
+    "creation_time": 1587472839824,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292360",
+    "title": "Ticket 550",
+    "creation_time": 1587473636864,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292359",
+    "title": "Ticket 551",
+    "creation_time": 1587473057350,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292358",
+    "title": "Ticket 552",
+    "creation_time": 1587473089387,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292357",
+    "title": "Ticket 553",
+    "creation_time": 1587472420309,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292356",
+    "title": "Ticket 554",
+    "creation_time": 1587472441704,
+    "resolution": "TP",
+    "rules": [
+      "1582"
+    ]
+  },
+  {
+    "id": "292355",
+    "title": "Ticket 555",
+    "creation_time": 1587472163341,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292354",
+    "title": "Ticket 556",
+    "creation_time": 1587472728424,
+    "resolution": "TP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292353",
+    "title": "Ticket 557",
+    "creation_time": 1587471688678,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292352",
+    "title": "Ticket 558",
+    "creation_time": 1587472275628,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292351",
+    "title": "Ticket 559",
+    "creation_time": 1587471550729,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292350",
+    "title": "Ticket 560",
+    "creation_time": 1587471660152,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292349",
+    "title": "Ticket 561",
+    "creation_time": 1587471350158,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292348",
+    "title": "Ticket 562",
+    "creation_time": 1587471737344,
+    "resolution": "TP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292347",
+    "title": "Ticket 563",
+    "creation_time": 1587471812024,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292346",
+    "title": "Ticket 564",
+    "creation_time": 1587471334325,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292345",
+    "title": "Ticket 565",
+    "creation_time": 1587470519019,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292344",
+    "title": "Ticket 566",
+    "creation_time": 1587470778360,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292343",
+    "title": "Ticket 567",
+    "creation_time": 1587471229764,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292342",
+    "title": "Ticket 568",
+    "creation_time": 1587470256481,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292341",
+    "title": "Ticket 569",
+    "creation_time": 1587470046132,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292340",
+    "title": "Ticket 570",
+    "creation_time": 1587470093805,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292339",
+    "title": "Ticket 571",
+    "creation_time": 1587468818602,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292338",
+    "title": "Ticket 572",
+    "creation_time": 1587469621318,
+    "resolution": "TP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292337",
+    "title": "Ticket 573",
+    "creation_time": 1587468514348,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292336",
+    "title": "Ticket 574",
+    "creation_time": 1587469420480,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292335",
+    "title": "Ticket 575",
+    "creation_time": 1587469201140,
+    "resolution": "TP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292334",
+    "title": "Ticket 576",
+    "creation_time": 1587466875205,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292333",
+    "title": "Ticket 577",
+    "creation_time": 1587466942731,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292332",
+    "title": "Ticket 578",
+    "creation_time": 1587467474175,
+    "resolution": "FP",
+    "rules": [
+      "1476",
+      "1408"
+    ]
+  },
+  {
+    "id": "292331",
+    "title": "Ticket 579",
+    "creation_time": 1587466584679,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292330",
+    "title": "Ticket 580",
+    "creation_time": 1587467384110,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292329",
+    "title": "Ticket 581",
+    "creation_time": 1587464320157,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292328",
+    "title": "Ticket 582",
+    "creation_time": 1587463485792,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292327",
+    "title": "Ticket 583",
+    "creation_time": 1587461949998,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292326",
+    "title": "Ticket 584",
+    "creation_time": 1587459841988,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292325",
+    "title": "Ticket 585",
+    "creation_time": 1587459652386,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292324",
+    "title": "Ticket 586",
+    "creation_time": 1587452308007,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292323",
+    "title": "Ticket 587",
+    "creation_time": 1587445531859,
+    "resolution": "FP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292322",
+    "title": "Ticket 588",
+    "creation_time": 1587446340130,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292321",
+    "title": "Ticket 589",
+    "creation_time": 1587446683827,
+    "resolution": "TP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292320",
+    "title": "Ticket 590",
+    "creation_time": 1587445528761,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292319",
+    "title": "Ticket 591",
+    "creation_time": 1587442905466,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292318",
+    "title": "Ticket 592",
+    "creation_time": 1587440982566,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1582",
+      "1197"
+    ]
+  },
+  {
+    "id": "292317",
+    "title": "Ticket 593",
+    "creation_time": 1587434512858,
+    "resolution": "TP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292316",
+    "title": "Ticket 594",
+    "creation_time": 1587431698038,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292315",
+    "title": "Ticket 595",
+    "creation_time": 1587431804737,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292314",
+    "title": "Ticket 596",
+    "creation_time": 1587427701683,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292313",
+    "title": "Ticket 597",
+    "creation_time": 1587425199011,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292312",
+    "title": "Ticket 598",
+    "creation_time": 1587424588404,
+    "resolution": "FP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292311",
+    "title": "Ticket 599",
+    "creation_time": 1587424525869,
+    "resolution": "TP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292310",
+    "title": "Ticket 600",
+    "creation_time": 1587423891142,
+    "resolution": "TP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292309",
+    "title": "Ticket 601",
+    "creation_time": 1587421142191,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292308",
+    "title": "Ticket 602",
+    "creation_time": 1587419182563,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292307",
+    "title": "Ticket 603",
+    "creation_time": 1587419496230,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292306",
+    "title": "Ticket 604",
+    "creation_time": 1587418762625,
+    "resolution": "FP",
+    "rules": [
+      "1582"
+    ]
+  },
+  {
+    "id": "292305",
+    "title": "Ticket 605",
+    "creation_time": 1587417277235,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292304",
+    "title": "Ticket 606",
+    "creation_time": 1587416568391,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292303",
+    "title": "Ticket 607",
+    "creation_time": 1587416419532,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292302",
+    "title": "Ticket 608",
+    "creation_time": 1587415533134,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292301",
+    "title": "Ticket 609",
+    "creation_time": 1587415923506,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292300",
+    "title": "Ticket 610",
+    "creation_time": 1587415272190,
+    "resolution": "TP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292299",
+    "title": "Ticket 611",
+    "creation_time": 1587414961140,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292298",
+    "title": "Ticket 612",
+    "creation_time": 1587414501209,
+    "resolution": "FP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292297",
+    "title": "Ticket 613",
+    "creation_time": 1587414079174,
+    "resolution": "TP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292296",
+    "title": "Ticket 614",
+    "creation_time": 1587413520803,
+    "resolution": "FP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292295",
+    "title": "Ticket 615",
+    "creation_time": 1587412081850,
+    "resolution": "FP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292294",
+    "title": "Ticket 616",
+    "creation_time": 1587411468700,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292293",
+    "title": "Ticket 617",
+    "creation_time": 1587412044956,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292292",
+    "title": "Ticket 618",
+    "creation_time": 1587411736908,
+    "resolution": "TP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292291",
+    "title": "Ticket 619",
+    "creation_time": 1587410926435,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292290",
+    "title": "Ticket 620",
+    "creation_time": 1587410016310,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292289",
+    "title": "Ticket 621",
+    "creation_time": 1587409806039,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292288",
+    "title": "Ticket 622",
+    "creation_time": 1587409367753,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1545",
+      "1200"
+    ]
+  },
+  {
+    "id": "292287",
+    "title": "Ticket 623",
+    "creation_time": 1587409602653,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292286",
+    "title": "Ticket 624",
+    "creation_time": 1587408637923,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292285",
+    "title": "Ticket 625",
+    "creation_time": 1587408180295,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292284",
+    "title": "Ticket 626",
+    "creation_time": 1587408606228,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292283",
+    "title": "Ticket 627",
+    "creation_time": 1587408997010,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292282",
+    "title": "Ticket 628",
+    "creation_time": 1587408483984,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292281",
+    "title": "Ticket 629",
+    "creation_time": 1587407820926,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292280",
+    "title": "Ticket 630",
+    "creation_time": 1587408246724,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292279",
+    "title": "Ticket 631",
+    "creation_time": 1587408027609,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292278",
+    "title": "Ticket 632",
+    "creation_time": 1587407855777,
+    "resolution": "FP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292277",
+    "title": "Ticket 633",
+    "creation_time": 1587407204260,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292276",
+    "title": "Ticket 634",
+    "creation_time": 1587406481184,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292275",
+    "title": "Ticket 635",
+    "creation_time": 1587406202120,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292274",
+    "title": "Ticket 636",
+    "creation_time": 1587406457914,
+    "resolution": "FP",
+    "rules": [
+      "1424",
+      "1185"
+    ]
+  },
+  {
+    "id": "292273",
+    "title": "Ticket 637",
+    "creation_time": 1587406507582,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292272",
+    "title": "Ticket 638",
+    "creation_time": 1587404991242,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292271",
+    "title": "Ticket 639",
+    "creation_time": 1587405915784,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292270",
+    "title": "Ticket 640",
+    "creation_time": 1587404615512,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292269",
+    "title": "Ticket 641",
+    "creation_time": 1587405593225,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292268",
+    "title": "Ticket 642",
+    "creation_time": 1587404698889,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292267",
+    "title": "Ticket 643",
+    "creation_time": 1587404607317,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292266",
+    "title": "Ticket 644",
+    "creation_time": 1587405070754,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292265",
+    "title": "Ticket 645",
+    "creation_time": 1587404706729,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292264",
+    "title": "Ticket 646",
+    "creation_time": 1587404100964,
+    "resolution": "TP",
+    "rules": [
+      "1403"
+    ]
+  },
+  {
+    "id": "292263",
+    "title": "Ticket 647",
+    "creation_time": 1587402805950,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292262",
+    "title": "Ticket 648",
+    "creation_time": 1587402699081,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292261",
+    "title": "Ticket 649",
+    "creation_time": 1587403763385,
+    "resolution": "FP",
+    "rules": [
+      "100328"
+    ]
+  },
+  {
+    "id": "292260",
+    "title": "Ticket 650",
+    "creation_time": 1587403159303,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292259",
+    "title": "Ticket 651",
+    "creation_time": 1587403562842,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292258",
+    "title": "Ticket 652",
+    "creation_time": 1587402672801,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292257",
+    "title": "Ticket 653",
+    "creation_time": 1587401952931,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292256",
+    "title": "Ticket 654",
+    "creation_time": 1587402499482,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292255",
+    "title": "Ticket 655",
+    "creation_time": 1587401778529,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292254",
+    "title": "Ticket 656",
+    "creation_time": 1587400339944,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292253",
+    "title": "Ticket 657",
+    "creation_time": 1587400959288,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292252",
+    "title": "Ticket 658",
+    "creation_time": 1587401117809,
+    "resolution": "FP",
+    "rules": [
+      "1545",
+      "135030"
+    ]
+  },
+  {
+    "id": "292251",
+    "title": "Ticket 659",
+    "creation_time": 1587400920998,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292250",
+    "title": "Ticket 660",
+    "creation_time": 1587399888552,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292249",
+    "title": "Ticket 661",
+    "creation_time": 1587400028794,
+    "resolution": "TP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292248",
+    "title": "Ticket 662",
+    "creation_time": 1587399531701,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292247",
+    "title": "Ticket 663",
+    "creation_time": 1587399253779,
+    "resolution": "FP",
+    "rules": [
+      "134230"
+    ]
+  },
+  {
+    "id": "292246",
+    "title": "Ticket 664",
+    "creation_time": 1587398623003,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292245",
+    "title": "Ticket 665",
+    "creation_time": 1587398157986,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292244",
+    "title": "Ticket 666",
+    "creation_time": 1587398126113,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292243",
+    "title": "Ticket 667",
+    "creation_time": 1587397233714,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292242",
+    "title": "Ticket 668",
+    "creation_time": 1587396977232,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292241",
+    "title": "Ticket 669",
+    "creation_time": 1587396962286,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292240",
+    "title": "Ticket 670",
+    "creation_time": 1587396603876,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292239",
+    "title": "Ticket 671",
+    "creation_time": 1587397245428,
+    "resolution": "TP",
+    "rules": [
+      "1594",
+      "1582",
+      "1512"
+    ]
+  },
+  {
+    "id": "292238",
+    "title": "Ticket 672",
+    "creation_time": 1587397317605,
+    "resolution": "TP",
+    "rules": [
+      "104826",
+      "1200"
+    ]
+  },
+  {
+    "id": "292237",
+    "title": "Ticket 673",
+    "creation_time": 1587397013144,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292236",
+    "title": "Ticket 674",
+    "creation_time": 1587393303237,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292235",
+    "title": "Ticket 675",
+    "creation_time": 1587395430435,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292234",
+    "title": "Ticket 676",
+    "creation_time": 1587395751182,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292233",
+    "title": "Ticket 677",
+    "creation_time": 1587396199375,
+    "resolution": "TP",
+    "rules": [
+      "1093"
+    ]
+  },
+  {
+    "id": "292232",
+    "title": "Ticket 678",
+    "creation_time": 1587394983821,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292231",
+    "title": "Ticket 679",
+    "creation_time": 1587395002445,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292230",
+    "title": "Ticket 680",
+    "creation_time": 1587395395520,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292229",
+    "title": "Ticket 681",
+    "creation_time": 1587395133328,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292228",
+    "title": "Ticket 682",
+    "creation_time": 1587394752821,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292227",
+    "title": "Ticket 683",
+    "creation_time": 1587395228019,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292226",
+    "title": "Ticket 684",
+    "creation_time": 1587394106229,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292225",
+    "title": "Ticket 685",
+    "creation_time": 1587394628082,
+    "resolution": "TP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292224",
+    "title": "Ticket 686",
+    "creation_time": 1587393897676,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292223",
+    "title": "Ticket 687",
+    "creation_time": 1587394474316,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292222",
+    "title": "Ticket 688",
+    "creation_time": 1587393582818,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292221",
+    "title": "Ticket 689",
+    "creation_time": 1587392899007,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292220",
+    "title": "Ticket 690",
+    "creation_time": 1587392902649,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292219",
+    "title": "Ticket 691",
+    "creation_time": 1587392731809,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292218",
+    "title": "Ticket 692",
+    "creation_time": 1587393849821,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292217",
+    "title": "Ticket 693",
+    "creation_time": 1587392416967,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292216",
+    "title": "Ticket 694",
+    "creation_time": 1587393168691,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292215",
+    "title": "Ticket 695",
+    "creation_time": 1587392766058,
+    "resolution": "TP",
+    "rules": [
+      "108524"
+    ]
+  },
+  {
+    "id": "292214",
+    "title": "Ticket 696",
+    "creation_time": 1587391455226,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292213",
+    "title": "Ticket 697",
+    "creation_time": 1587391521175,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292212",
+    "title": "Ticket 698",
+    "creation_time": 1587391668628,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292211",
+    "title": "Ticket 699",
+    "creation_time": 1587391118227,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292210",
+    "title": "Ticket 700",
+    "creation_time": 1587391970220,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292209",
+    "title": "Ticket 701",
+    "creation_time": 1587391850602,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292208",
+    "title": "Ticket 702",
+    "creation_time": 1587391383122,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292207",
+    "title": "Ticket 703",
+    "creation_time": 1587391024036,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292206",
+    "title": "Ticket 704",
+    "creation_time": 1587390781512,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292205",
+    "title": "Ticket 705",
+    "creation_time": 1587391062182,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292204",
+    "title": "Ticket 706",
+    "creation_time": 1587390565937,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292203",
+    "title": "Ticket 707",
+    "creation_time": 1587390065170,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292202",
+    "title": "Ticket 708",
+    "creation_time": 1587389687729,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292201",
+    "title": "Ticket 709",
+    "creation_time": 1587389990042,
+    "resolution": "TP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292200",
+    "title": "Ticket 710",
+    "creation_time": 1587390450129,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292199",
+    "title": "Ticket 711",
+    "creation_time": 1587389300463,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292198",
+    "title": "Ticket 712",
+    "creation_time": 1587389638173,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292197",
+    "title": "Ticket 713",
+    "creation_time": 1587388853648,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292196",
+    "title": "Ticket 714",
+    "creation_time": 1587389074387,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292195",
+    "title": "Ticket 715",
+    "creation_time": 1587388993011,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292194",
+    "title": "Ticket 716",
+    "creation_time": 1587388801972,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292193",
+    "title": "Ticket 717",
+    "creation_time": 1587389341264,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292192",
+    "title": "Ticket 718",
+    "creation_time": 1587388265196,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292191",
+    "title": "Ticket 719",
+    "creation_time": 1587388436496,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292190",
+    "title": "Ticket 720",
+    "creation_time": 1587388688083,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292189",
+    "title": "Ticket 721",
+    "creation_time": 1587388108583,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292188",
+    "title": "Ticket 722",
+    "creation_time": 1587388573368,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292187",
+    "title": "Ticket 723",
+    "creation_time": 1587387643911,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292186",
+    "title": "Ticket 724",
+    "creation_time": 1587387582007,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292185",
+    "title": "Ticket 725",
+    "creation_time": 1587387552751,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292184",
+    "title": "Ticket 726",
+    "creation_time": 1587388442532,
+    "resolution": "TP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292183",
+    "title": "Ticket 727",
+    "creation_time": 1587388075940,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292182",
+    "title": "Ticket 728",
+    "creation_time": 1587387850783,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292181",
+    "title": "Ticket 729",
+    "creation_time": 1587387180211,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292180",
+    "title": "Ticket 730",
+    "creation_time": 1587386904521,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292179",
+    "title": "Ticket 731",
+    "creation_time": 1587386881365,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292178",
+    "title": "Ticket 732",
+    "creation_time": 1587386785458,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292177",
+    "title": "Ticket 733",
+    "creation_time": 1587387716048,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292176",
+    "title": "Ticket 734",
+    "creation_time": 1587386691524,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292175",
+    "title": "Ticket 735",
+    "creation_time": 1587387728419,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292174",
+    "title": "Ticket 736",
+    "creation_time": 1587386249228,
+    "resolution": "TP",
+    "rules": [
+      "1582",
+      "1594",
+      "1200"
+    ]
+  },
+  {
+    "id": "292173",
+    "title": "Ticket 737",
+    "creation_time": 1587387025012,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292172",
+    "title": "Ticket 738",
+    "creation_time": 1587386464205,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292171",
+    "title": "Ticket 739",
+    "creation_time": 1587386810559,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292170",
+    "title": "Ticket 740",
+    "creation_time": 1587386334256,
+    "resolution": "TP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292169",
+    "title": "Ticket 741",
+    "creation_time": 1587386737712,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292168",
+    "title": "Ticket 742",
+    "creation_time": 1587385942972,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292167",
+    "title": "Ticket 743",
+    "creation_time": 1587386051463,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292166",
+    "title": "Ticket 744",
+    "creation_time": 1587385698550,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292165",
+    "title": "Ticket 745",
+    "creation_time": 1587385080018,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292164",
+    "title": "Ticket 746",
+    "creation_time": 1587385640542,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292163",
+    "title": "Ticket 747",
+    "creation_time": 1587385117114,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "108524",
+      "1200"
+    ]
+  },
+  {
+    "id": "292162",
+    "title": "Ticket 748",
+    "creation_time": 1587384697282,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292161",
+    "title": "Ticket 749",
+    "creation_time": 1587384480421,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292160",
+    "title": "Ticket 750",
+    "creation_time": 1587384658818,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292159",
+    "title": "Ticket 751",
+    "creation_time": 1587384504436,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292158",
+    "title": "Ticket 752",
+    "creation_time": 1587384440372,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292157",
+    "title": "Ticket 753",
+    "creation_time": 1587385142057,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292156",
+    "title": "Ticket 754",
+    "creation_time": 1587385200351,
+    "resolution": "TP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292155",
+    "title": "Ticket 755",
+    "creation_time": 1587384720264,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "292154",
+    "title": "Ticket 756",
+    "creation_time": 1587384008100,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292153",
+    "title": "Ticket 757",
+    "creation_time": 1587383728852,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292152",
+    "title": "Ticket 758",
+    "creation_time": 1587384281164,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292151",
+    "title": "Ticket 759",
+    "creation_time": 1587383933166,
+    "resolution": "FP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292150",
+    "title": "Ticket 760",
+    "creation_time": 1587383935806,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292149",
+    "title": "Ticket 761",
+    "creation_time": 1587383787623,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292148",
+    "title": "Ticket 762",
+    "creation_time": 1587383769670,
+    "resolution": "TP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292147",
+    "title": "Ticket 763",
+    "creation_time": 1587383861038,
+    "resolution": "FP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292146",
+    "title": "Ticket 764",
+    "creation_time": 1587383263679,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292145",
+    "title": "Ticket 765",
+    "creation_time": 1587383291446,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292144",
+    "title": "Ticket 766",
+    "creation_time": 1587383326199,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292143",
+    "title": "Ticket 767",
+    "creation_time": 1587383219422,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292142",
+    "title": "Ticket 768",
+    "creation_time": 1587382801049,
+    "resolution": "FP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292141",
+    "title": "Ticket 769",
+    "creation_time": 1587381737963,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292140",
+    "title": "Ticket 770",
+    "creation_time": 1587381887645,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292139",
+    "title": "Ticket 771",
+    "creation_time": 1587381552571,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292138",
+    "title": "Ticket 772",
+    "creation_time": 1587381552571,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292137",
+    "title": "Ticket 773",
+    "creation_time": 1587380633742,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292136",
+    "title": "Ticket 774",
+    "creation_time": 1587380981426,
+    "resolution": "TP",
+    "rules": [
+      "1582",
+      "1594"
+    ]
+  },
+  {
+    "id": "292135",
+    "title": "Ticket 775",
+    "creation_time": 1587379650347,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292134",
+    "title": "Ticket 776",
+    "creation_time": 1587380299485,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292133",
+    "title": "Ticket 777",
+    "creation_time": 1587379535441,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292132",
+    "title": "Ticket 778",
+    "creation_time": 1587380239811,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292131",
+    "title": "Ticket 779",
+    "creation_time": 1587377761368,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292130",
+    "title": "Ticket 780",
+    "creation_time": 1587368204640,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292129",
+    "title": "Ticket 781",
+    "creation_time": 1587366020041,
+    "resolution": "TP",
+    "rules": [
+      "1431"
+    ]
+  },
+  {
+    "id": "292128",
+    "title": "Ticket 782",
+    "creation_time": 1587365002243,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292127",
+    "title": "Ticket 783",
+    "creation_time": 1587362984254,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292126",
+    "title": "Ticket 784",
+    "creation_time": 1587360504984,
+    "resolution": "FP",
+    "rules": [
+      "1424",
+      "1185"
+    ]
+  },
+  {
+    "id": "292125",
+    "title": "Ticket 785",
+    "creation_time": 1587360481809,
+    "resolution": "TP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292124",
+    "title": "Ticket 786",
+    "creation_time": 1587359888681,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292123",
+    "title": "Ticket 787",
+    "creation_time": 1587356896330,
+    "resolution": "FP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292122",
+    "title": "Ticket 788",
+    "creation_time": 1587356450400,
+    "resolution": "TP",
+    "rules": [
+      "1424",
+      "1185"
+    ]
+  },
+  {
+    "id": "292121",
+    "title": "Ticket 789",
+    "creation_time": 1587355855920,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292120",
+    "title": "Ticket 790",
+    "creation_time": 1587353174693,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292119",
+    "title": "Ticket 791",
+    "creation_time": 1587353129093,
+    "resolution": "FP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292118",
+    "title": "Ticket 792",
+    "creation_time": 1587349261625,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292117",
+    "title": "Ticket 793",
+    "creation_time": 1587348184527,
+    "resolution": "TP",
+    "rules": [
+      "1545"
+    ]
+  },
+  {
+    "id": "292116",
+    "title": "Ticket 794",
+    "creation_time": 1587344734496,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292115",
+    "title": "Ticket 795",
+    "creation_time": 1587344332488,
+    "resolution": "FP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292114",
+    "title": "Ticket 796",
+    "creation_time": 1587339903362,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292113",
+    "title": "Ticket 797",
+    "creation_time": 1587338308312,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292112",
+    "title": "Ticket 798",
+    "creation_time": 1587332289112,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292111",
+    "title": "Ticket 799",
+    "creation_time": 1587328837001,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292110",
+    "title": "Ticket 800",
+    "creation_time": 1587327795153,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292109",
+    "title": "Ticket 801",
+    "creation_time": 1587320682560,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292108",
+    "title": "Ticket 802",
+    "creation_time": 1587320640079,
+    "resolution": "TP",
+    "rules": [
+      "108524"
+    ]
+  },
+  {
+    "id": "292107",
+    "title": "Ticket 803",
+    "creation_time": 1587317871033,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292106",
+    "title": "Ticket 804",
+    "creation_time": 1587314872290,
+    "resolution": "TP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "292105",
+    "title": "Ticket 805",
+    "creation_time": 1587313498235,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292104",
+    "title": "Ticket 806",
+    "creation_time": 1587310363843,
+    "resolution": "FP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292103",
+    "title": "Ticket 807",
+    "creation_time": 1587313508366,
+    "resolution": "TP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292102",
+    "title": "Ticket 808",
+    "creation_time": 1587312955637,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292101",
+    "title": "Ticket 809",
+    "creation_time": 1587312729740,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292100",
+    "title": "Ticket 810",
+    "creation_time": 1587308620425,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292099",
+    "title": "Ticket 811",
+    "creation_time": 1587308620392,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292098",
+    "title": "Ticket 812",
+    "creation_time": 1587308542881,
+    "resolution": "TP",
+    "rules": [
+      "1476"
+    ]
+  },
+  {
+    "id": "292097",
+    "title": "Ticket 813",
+    "creation_time": 1587308291078,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292096",
+    "title": "Ticket 814",
+    "creation_time": 1587307584594,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292095",
+    "title": "Ticket 815",
+    "creation_time": 1587307203068,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292094",
+    "title": "Ticket 816",
+    "creation_time": 1587302839816,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292093",
+    "title": "Ticket 817",
+    "creation_time": 1587300038334,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292092",
+    "title": "Ticket 818",
+    "creation_time": 1587299486107,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292091",
+    "title": "Ticket 819",
+    "creation_time": 1587297368372,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292090",
+    "title": "Ticket 820",
+    "creation_time": 1587297328063,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292089",
+    "title": "Ticket 821",
+    "creation_time": 1587296748355,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292088",
+    "title": "Ticket 822",
+    "creation_time": 1587296269310,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292087",
+    "title": "Ticket 823",
+    "creation_time": 1587287384923,
+    "resolution": "FP",
+    "rules": [
+      "102274"
+    ]
+  },
+  {
+    "id": "292086",
+    "title": "Ticket 824",
+    "creation_time": 1587287453090,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292085",
+    "title": "Ticket 825",
+    "creation_time": 1587271919808,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292084",
+    "title": "Ticket 826",
+    "creation_time": 1587269739676,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292083",
+    "title": "Ticket 827",
+    "creation_time": 1587264092295,
+    "resolution": "FP",
+    "rules": [
+      "1582"
+    ]
+  },
+  {
+    "id": "292082",
+    "title": "Ticket 828",
+    "creation_time": 1587261708471,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292081",
+    "title": "Ticket 829",
+    "creation_time": 1587261908670,
+    "resolution": "TP",
+    "rules": [
+      "1582"
+    ]
+  },
+  {
+    "id": "292080",
+    "title": "Ticket 830",
+    "creation_time": 1587259915367,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292079",
+    "title": "Ticket 831",
+    "creation_time": 1587257764671,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292078",
+    "title": "Ticket 832",
+    "creation_time": 1587257609362,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292077",
+    "title": "Ticket 833",
+    "creation_time": 1587254824732,
+    "resolution": "FP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292076",
+    "title": "Ticket 834",
+    "creation_time": 1587254766418,
+    "resolution": "TP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292075",
+    "title": "Ticket 835",
+    "creation_time": 1587249522677,
+    "resolution": "FP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292074",
+    "title": "Ticket 836",
+    "creation_time": 1587249345247,
+    "resolution": "TP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292073",
+    "title": "Ticket 837",
+    "creation_time": 1587244755488,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292072",
+    "title": "Ticket 838",
+    "creation_time": 1587242407819,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292071",
+    "title": "Ticket 839",
+    "creation_time": 1587242240159,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292070",
+    "title": "Ticket 840",
+    "creation_time": 1587240470987,
+    "resolution": "TP",
+    "rules": [
+      "154880"
+    ]
+  },
+  {
+    "id": "292069",
+    "title": "Ticket 841",
+    "creation_time": 1587239780388,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292068",
+    "title": "Ticket 842",
+    "creation_time": 1587238628117,
+    "resolution": "TP",
+    "rules": [
+      "1184",
+      "1197",
+      "1359"
+    ]
+  },
+  {
+    "id": "292067",
+    "title": "Ticket 843",
+    "creation_time": 1587237113335,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292066",
+    "title": "Ticket 844",
+    "creation_time": 1587234674269,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292065",
+    "title": "Ticket 845",
+    "creation_time": 1587233406240,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292064",
+    "title": "Ticket 846",
+    "creation_time": 1587229598966,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292063",
+    "title": "Ticket 847",
+    "creation_time": 1587229443518,
+    "resolution": "FP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "292062",
+    "title": "Ticket 848",
+    "creation_time": 1587228251345,
+    "resolution": "FP",
+    "rules": [
+      "102277",
+      "1545"
+    ]
+  },
+  {
+    "id": "292061",
+    "title": "Ticket 849",
+    "creation_time": 1587226649323,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292060",
+    "title": "Ticket 850",
+    "creation_time": 1587224622196,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292059",
+    "title": "Ticket 851",
+    "creation_time": 1587223392361,
+    "resolution": "TP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292058",
+    "title": "Ticket 852",
+    "creation_time": 1587223329660,
+    "resolution": "FP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292057",
+    "title": "Ticket 853",
+    "creation_time": 1587222038932,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292056",
+    "title": "Ticket 854",
+    "creation_time": 1587222056780,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292055",
+    "title": "Ticket 855",
+    "creation_time": 1587218564701,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292054",
+    "title": "Ticket 856",
+    "creation_time": 1587216127020,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292053",
+    "title": "Ticket 857",
+    "creation_time": 1587215569528,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292052",
+    "title": "Ticket 858",
+    "creation_time": 1587216666938,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292051",
+    "title": "Ticket 859",
+    "creation_time": 1587214120572,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292050",
+    "title": "Ticket 860",
+    "creation_time": 1587213748955,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292049",
+    "title": "Ticket 861",
+    "creation_time": 1587212601333,
+    "resolution": "FP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292048",
+    "title": "Ticket 862",
+    "creation_time": 1587212631849,
+    "resolution": "FP",
+    "rules": [
+      "1545"
+    ]
+  },
+  {
+    "id": "292047",
+    "title": "Ticket 863",
+    "creation_time": 1587212026523,
+    "resolution": "FP",
+    "rules": [
+      "1424"
+    ]
+  },
+  {
+    "id": "292046",
+    "title": "Ticket 864",
+    "creation_time": 1587211992768,
+    "resolution": "TP",
+    "rules": [
+      "1185",
+      "1424"
+    ]
+  },
+  {
+    "id": "292045",
+    "title": "Ticket 865",
+    "creation_time": 1587207639428,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292044",
+    "title": "Ticket 866",
+    "creation_time": 1587207602020,
+    "resolution": "TP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "292043",
+    "title": "Ticket 867",
+    "creation_time": 1587199085534,
+    "resolution": "FP",
+    "rules": [
+      "1582"
+    ]
+  },
+  {
+    "id": "292042",
+    "title": "Ticket 868",
+    "creation_time": 1587199528464,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292041",
+    "title": "Ticket 869",
+    "creation_time": 1587198960072,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292040",
+    "title": "Ticket 870",
+    "creation_time": 1587194062044,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292039",
+    "title": "Ticket 871",
+    "creation_time": 1587188987475,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292038",
+    "title": "Ticket 872",
+    "creation_time": 1587186193336,
+    "resolution": "FP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "292037",
+    "title": "Ticket 873",
+    "creation_time": 1587185191343,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292036",
+    "title": "Ticket 874",
+    "creation_time": 1587172872488,
+    "resolution": "TP",
+    "rules": [
+      "1403"
+    ]
+  },
+  {
+    "id": "292035",
+    "title": "Ticket 875",
+    "creation_time": 1587170263483,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292034",
+    "title": "Ticket 876",
+    "creation_time": 1587166911178,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292033",
+    "title": "Ticket 877",
+    "creation_time": 1587166606293,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292032",
+    "title": "Ticket 878",
+    "creation_time": 1587165680436,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292031",
+    "title": "Ticket 879",
+    "creation_time": 1587160813872,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292030",
+    "title": "Ticket 880",
+    "creation_time": 1587158464922,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292029",
+    "title": "Ticket 881",
+    "creation_time": 1587158482049,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292028",
+    "title": "Ticket 882",
+    "creation_time": 1587156996066,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292027",
+    "title": "Ticket 883",
+    "creation_time": 1587155979435,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292026",
+    "title": "Ticket 884",
+    "creation_time": 1587156534059,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292025",
+    "title": "Ticket 885",
+    "creation_time": 1587156176590,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292024",
+    "title": "Ticket 886",
+    "creation_time": 1587155432866,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292023",
+    "title": "Ticket 887",
+    "creation_time": 1587154531559,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292022",
+    "title": "Ticket 888",
+    "creation_time": 1587154032255,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292021",
+    "title": "Ticket 889",
+    "creation_time": 1587154758834,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292020",
+    "title": "Ticket 890",
+    "creation_time": 1587152100069,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292019",
+    "title": "Ticket 891",
+    "creation_time": 1587152880816,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292018",
+    "title": "Ticket 892",
+    "creation_time": 1587152824737,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "292017",
+    "title": "Ticket 893",
+    "creation_time": 1587152060018,
+    "resolution": "TP",
+    "rules": [
+      "1476"
+    ]
+  },
+  {
+    "id": "292016",
+    "title": "Ticket 894",
+    "creation_time": 1587150900781,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292015",
+    "title": "Ticket 895",
+    "creation_time": 1587150741334,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292014",
+    "title": "Ticket 896",
+    "creation_time": 1587150417896,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292013",
+    "title": "Ticket 897",
+    "creation_time": 1587149974327,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "292012",
+    "title": "Ticket 898",
+    "creation_time": 1587149693673,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292011",
+    "title": "Ticket 899",
+    "creation_time": 1587150057442,
+    "resolution": "FP",
+    "rules": [
+      "1582"
+    ]
+  },
+  {
+    "id": "292010",
+    "title": "Ticket 900",
+    "creation_time": 1587150513699,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292009",
+    "title": "Ticket 901",
+    "creation_time": 1587148639353,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "292008",
+    "title": "Ticket 902",
+    "creation_time": 1587147543156,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292007",
+    "title": "Ticket 903",
+    "creation_time": 1587147393740,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "292006",
+    "title": "Ticket 904",
+    "creation_time": 1587146276710,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292005",
+    "title": "Ticket 905",
+    "creation_time": 1587146882155,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "292004",
+    "title": "Ticket 906",
+    "creation_time": 1587145227514,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292003",
+    "title": "Ticket 907",
+    "creation_time": 1587143651528,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292002",
+    "title": "Ticket 908",
+    "creation_time": 1587143413050,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292001",
+    "title": "Ticket 909",
+    "creation_time": 1587142928214,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "292000",
+    "title": "Ticket 910",
+    "creation_time": 1587141960737,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291999",
+    "title": "Ticket 911",
+    "creation_time": 1587141930468,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291998",
+    "title": "Ticket 912",
+    "creation_time": 1587142182143,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "291997",
+    "title": "Ticket 913",
+    "creation_time": 1587140659438,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291996",
+    "title": "Ticket 914",
+    "creation_time": 1587140701774,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "291995",
+    "title": "Ticket 915",
+    "creation_time": 1587140409601,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291994",
+    "title": "Ticket 916",
+    "creation_time": 1587139699379,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291993",
+    "title": "Ticket 917",
+    "creation_time": 1587139972620,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291992",
+    "title": "Ticket 918",
+    "creation_time": 1587138491161,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291991",
+    "title": "Ticket 919",
+    "creation_time": 1587138259139,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291990",
+    "title": "Ticket 920",
+    "creation_time": 1587138583846,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291989",
+    "title": "Ticket 921",
+    "creation_time": 1587137768280,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291988",
+    "title": "Ticket 922",
+    "creation_time": 1587137040496,
+    "resolution": "FP",
+    "rules": [
+      "1399"
+    ]
+  },
+  {
+    "id": "291987",
+    "title": "Ticket 923",
+    "creation_time": 1587134553724,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291986",
+    "title": "Ticket 924",
+    "creation_time": 1587134492227,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291985",
+    "title": "Ticket 925",
+    "creation_time": 1587134321214,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291984",
+    "title": "Ticket 926",
+    "creation_time": 1587134394746,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291983",
+    "title": "Ticket 927",
+    "creation_time": 1587135171532,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291982",
+    "title": "Ticket 928",
+    "creation_time": 1587133776482,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291981",
+    "title": "Ticket 929",
+    "creation_time": 1587133412318,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291980",
+    "title": "Ticket 930",
+    "creation_time": 1587134231906,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "291979",
+    "title": "Ticket 931",
+    "creation_time": 1587133820312,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291978",
+    "title": "Ticket 932",
+    "creation_time": 1587131921777,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291977",
+    "title": "Ticket 933",
+    "creation_time": 1587132183438,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291976",
+    "title": "Ticket 934",
+    "creation_time": 1587131780086,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291975",
+    "title": "Ticket 935",
+    "creation_time": 1587131486044,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291974",
+    "title": "Ticket 936",
+    "creation_time": 1587131634389,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291973",
+    "title": "Ticket 937",
+    "creation_time": 1587131527264,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291972",
+    "title": "Ticket 938",
+    "creation_time": 1587132123784,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "291971",
+    "title": "Ticket 939",
+    "creation_time": 1587131410739,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "291970",
+    "title": "Ticket 940",
+    "creation_time": 1587130278112,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291969",
+    "title": "Ticket 941",
+    "creation_time": 1587130140345,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291968",
+    "title": "Ticket 942",
+    "creation_time": 1587130240372,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291967",
+    "title": "Ticket 943",
+    "creation_time": 1587130770543,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291966",
+    "title": "Ticket 944",
+    "creation_time": 1587130533023,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291965",
+    "title": "Ticket 945",
+    "creation_time": 1587130330646,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "291964",
+    "title": "Ticket 946",
+    "creation_time": 1587130403153,
+    "resolution": "TP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "291963",
+    "title": "Ticket 947",
+    "creation_time": 1587129422479,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "291962",
+    "title": "Ticket 948",
+    "creation_time": 1587129246544,
+    "resolution": "TP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "291961",
+    "title": "Ticket 949",
+    "creation_time": 1587128318582,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291960",
+    "title": "Ticket 950",
+    "creation_time": 1587128241409,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291959",
+    "title": "Ticket 951",
+    "creation_time": 1587127754351,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291958",
+    "title": "Ticket 952",
+    "creation_time": 1587128343786,
+    "resolution": "TP",
+    "rules": [
+      "108524"
+    ]
+  },
+  {
+    "id": "291957",
+    "title": "Ticket 953",
+    "creation_time": 1587127415439,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291956",
+    "title": "Ticket 954",
+    "creation_time": 1587127384551,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291955",
+    "title": "Ticket 955",
+    "creation_time": 1587127827544,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291954",
+    "title": "Ticket 956",
+    "creation_time": 1587127843607,
+    "resolution": "FP",
+    "rules": [
+      "145580",
+      "132684"
+    ]
+  },
+  {
+    "id": "291953",
+    "title": "Ticket 957",
+    "creation_time": 1587127732487,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291952",
+    "title": "Ticket 958",
+    "creation_time": 1587127164842,
+    "resolution": "FP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "291951",
+    "title": "Ticket 959",
+    "creation_time": 1587127017453,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "291950",
+    "title": "Ticket 960",
+    "creation_time": 1587127049937,
+    "resolution": "TP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "291949",
+    "title": "Ticket 961",
+    "creation_time": 1587127031553,
+    "resolution": "TP",
+    "rules": [
+      "102277",
+      "1545"
+    ]
+  },
+  {
+    "id": "291948",
+    "title": "Ticket 962",
+    "creation_time": 1587126945133,
+    "resolution": "TP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "291947",
+    "title": "Ticket 963",
+    "creation_time": 1587126617992,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291946",
+    "title": "Ticket 964",
+    "creation_time": 1587125521973,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291945",
+    "title": "Ticket 965",
+    "creation_time": 1587126368827,
+    "resolution": "TP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "291944",
+    "title": "Ticket 966",
+    "creation_time": 1587124768538,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291943",
+    "title": "Ticket 967",
+    "creation_time": 1587124883532,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291942",
+    "title": "Ticket 968",
+    "creation_time": 1587125578736,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291941",
+    "title": "Ticket 969",
+    "creation_time": 1587125043392,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291940",
+    "title": "Ticket 970",
+    "creation_time": 1587125037407,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291939",
+    "title": "Ticket 971",
+    "creation_time": 1587125015511,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "291938",
+    "title": "Ticket 972",
+    "creation_time": 1587124959826,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291937",
+    "title": "Ticket 973",
+    "creation_time": 1587122718240,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291936",
+    "title": "Ticket 974",
+    "creation_time": 1587120432780,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291935",
+    "title": "Ticket 975",
+    "creation_time": 1587120847041,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291934",
+    "title": "Ticket 976",
+    "creation_time": 1587120233355,
+    "resolution": "FP",
+    "rules": [
+      "1545"
+    ]
+  },
+  {
+    "id": "291933",
+    "title": "Ticket 977",
+    "creation_time": 1587118299639,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291932",
+    "title": "Ticket 978",
+    "creation_time": 1587113760602,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291931",
+    "title": "Ticket 979",
+    "creation_time": 1587113721517,
+    "resolution": "TP",
+    "rules": [
+      "108524"
+    ]
+  },
+  {
+    "id": "291930",
+    "title": "Ticket 980",
+    "creation_time": 1587112283400,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291929",
+    "title": "Ticket 981",
+    "creation_time": 1587111810150,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "291928",
+    "title": "Ticket 982",
+    "creation_time": 1587110161430,
+    "resolution": "FP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "291927",
+    "title": "Ticket 983",
+    "creation_time": 1587109533987,
+    "resolution": "TP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "291926",
+    "title": "Ticket 984",
+    "creation_time": 1587103378453,
+    "resolution": "FP",
+    "rules": [
+      "1582"
+    ]
+  },
+  {
+    "id": "291925",
+    "title": "Ticket 985",
+    "creation_time": 1587100568030,
+    "resolution": "TP",
+    "rules": [
+      "1306"
+    ]
+  },
+  {
+    "id": "291924",
+    "title": "Ticket 986",
+    "creation_time": 1587100568030,
+    "resolution": "TP",
+    "rules": [
+      "1306"
+    ]
+  },
+  {
+    "id": "291923",
+    "title": "Ticket 987",
+    "creation_time": 1587100568030,
+    "resolution": "FP",
+    "rules": [
+      "1306"
+    ]
+  },
+  {
+    "id": "291922",
+    "title": "Ticket 988",
+    "creation_time": 1587100441476,
+    "resolution": "TP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "291921",
+    "title": "Ticket 989",
+    "creation_time": 1587100220630,
+    "resolution": "TP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "291920",
+    "title": "Ticket 990",
+    "creation_time": 1587100208509,
+    "resolution": "FP",
+    "rules": [
+      "1476"
+    ]
+  },
+  {
+    "id": "291919",
+    "title": "Ticket 991",
+    "creation_time": 1587099993104,
+    "resolution": "FP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "291918",
+    "title": "Ticket 992",
+    "creation_time": 1587099813825,
+    "resolution": "TP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "291917",
+    "title": "Ticket 993",
+    "creation_time": 1587098734425,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291916",
+    "title": "Ticket 994",
+    "creation_time": 1587095177856,
+    "resolution": "TP",
+    "rules": [
+      "1545"
+    ]
+  },
+  {
+    "id": "291915",
+    "title": "Ticket 995",
+    "creation_time": 1587092881454,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291914",
+    "title": "Ticket 996",
+    "creation_time": 1587091804600,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291913",
+    "title": "Ticket 997",
+    "creation_time": 1587089072575,
+    "resolution": "TP",
+    "rules": [
+      "145580"
+    ]
+  },
+  {
+    "id": "291912",
+    "title": "Ticket 998",
+    "creation_time": 1587088006646,
+    "resolution": "FP",
+    "rules": [
+      "1582"
+    ]
+  },
+  {
+    "id": "291911",
+    "title": "Ticket 999",
+    "creation_time": 1587087672102,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291910",
+    "title": "Ticket 1000",
+    "creation_time": 1587086481737,
+    "resolution": "TP",
+    "rules": [
+      "104826"
+    ]
+  },
+  {
+    "id": "291909",
+    "title": "Ticket 1001",
+    "creation_time": 1587084995548,
+    "resolution": "FP",
+    "rules": [
+      "102277"
+    ]
+  },
+  {
+    "id": "291908",
+    "title": "Ticket 1002",
+    "creation_time": 1587083343161,
+    "resolution": "FP",
+    "rules": [
+      "1403"
+    ]
+  },
+  {
+    "id": "291907",
+    "title": "Ticket 1003",
+    "creation_time": 1587080753060,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291906",
+    "title": "Ticket 1004",
+    "creation_time": 1587077408869,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291905",
+    "title": "Ticket 1005",
+    "creation_time": 1587077579813,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291904",
+    "title": "Ticket 1006",
+    "creation_time": 1587076024668,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291903",
+    "title": "Ticket 1007",
+    "creation_time": 1587072367911,
+    "resolution": "FP",
+    "rules": [
+      "1599"
+    ]
+  },
+  {
+    "id": "291902",
+    "title": "Ticket 1008",
+    "creation_time": 1587071161834,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291901",
+    "title": "Ticket 1009",
+    "creation_time": 1587071702927,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291900",
+    "title": "Ticket 1010",
+    "creation_time": 1587070399280,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291899",
+    "title": "Ticket 1011",
+    "creation_time": 1587070565798,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291898",
+    "title": "Ticket 1012",
+    "creation_time": 1587070225845,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291897",
+    "title": "Ticket 1013",
+    "creation_time": 1587070388067,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291896",
+    "title": "Ticket 1014",
+    "creation_time": 1587069905240,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291895",
+    "title": "Ticket 1015",
+    "creation_time": 1587068659370,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291894",
+    "title": "Ticket 1016",
+    "creation_time": 1587068447856,
+    "resolution": "TP",
+    "rules": [
+      "1599"
+    ]
+  },
+  {
+    "id": "291893",
+    "title": "Ticket 1017",
+    "creation_time": 1587067761373,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291892",
+    "title": "Ticket 1018",
+    "creation_time": 1587066283399,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291891",
+    "title": "Ticket 1019",
+    "creation_time": 1587065254398,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291890",
+    "title": "Ticket 1020",
+    "creation_time": 1587062805295,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291889",
+    "title": "Ticket 1021",
+    "creation_time": 1587063872056,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291888",
+    "title": "Ticket 1022",
+    "creation_time": 1587064283937,
+    "resolution": "TP",
+    "rules": [
+      "108524"
+    ]
+  },
+  {
+    "id": "291887",
+    "title": "Ticket 1023",
+    "creation_time": 1587063053340,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291886",
+    "title": "Ticket 1024",
+    "creation_time": 1587062235540,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291885",
+    "title": "Ticket 1025",
+    "creation_time": 1587063088055,
+    "resolution": "TP",
+    "rules": [
+      "134230"
+    ]
+  },
+  {
+    "id": "291884",
+    "title": "Ticket 1026",
+    "creation_time": 1587061510847,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291883",
+    "title": "Ticket 1027",
+    "creation_time": 1587061182148,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291882",
+    "title": "Ticket 1028",
+    "creation_time": 1587061237557,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291881",
+    "title": "Ticket 1029",
+    "creation_time": 1587059811313,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291880",
+    "title": "Ticket 1030",
+    "creation_time": 1587060153319,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291879",
+    "title": "Ticket 1031",
+    "creation_time": 1587059702492,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291878",
+    "title": "Ticket 1032",
+    "creation_time": 1587060554698,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291877",
+    "title": "Ticket 1033",
+    "creation_time": 1587060466507,
+    "resolution": "TP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291876",
+    "title": "Ticket 1034",
+    "creation_time": 1587058845299,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291875",
+    "title": "Ticket 1035",
+    "creation_time": 1587058620375,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291874",
+    "title": "Ticket 1036",
+    "creation_time": 1587058033984,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291873",
+    "title": "Ticket 1037",
+    "creation_time": 1587058632015,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291872",
+    "title": "Ticket 1038",
+    "creation_time": 1587057350266,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291871",
+    "title": "Ticket 1039",
+    "creation_time": 1587056794333,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291870",
+    "title": "Ticket 1040",
+    "creation_time": 1587056814177,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291869",
+    "title": "Ticket 1041",
+    "creation_time": 1587055749648,
+    "resolution": "FP",
+    "rules": [
+      "1594",
+      "1582"
+    ]
+  },
+  {
+    "id": "291868",
+    "title": "Ticket 1042",
+    "creation_time": 1587054954197,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291867",
+    "title": "Ticket 1043",
+    "creation_time": 1587052995989,
+    "resolution": "FP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291866",
+    "title": "Ticket 1044",
+    "creation_time": 1587053367982,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291865",
+    "title": "Ticket 1045",
+    "creation_time": 1587053299147,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291864",
+    "title": "Ticket 1046",
+    "creation_time": 1587053707721,
+    "resolution": "FP",
+    "rules": [
+      "140630"
+    ]
+  },
+  {
+    "id": "291863",
+    "title": "Ticket 1047",
+    "creation_time": 1587053083601,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291862",
+    "title": "Ticket 1048",
+    "creation_time": 1587052222089,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291861",
+    "title": "Ticket 1049",
+    "creation_time": 1587051974525,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291860",
+    "title": "Ticket 1050",
+    "creation_time": 1587051333785,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291859",
+    "title": "Ticket 1051",
+    "creation_time": 1587052170840,
+    "resolution": "TP",
+    "rules": [
+      "132684",
+      "145580"
+    ]
+  },
+  {
+    "id": "291858",
+    "title": "Ticket 1052",
+    "creation_time": 1587050608225,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291857",
+    "title": "Ticket 1053",
+    "creation_time": 1587049769651,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291856",
+    "title": "Ticket 1054",
+    "creation_time": 1587048850196,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291855",
+    "title": "Ticket 1055",
+    "creation_time": 1587050062382,
+    "resolution": "TP",
+    "rules": [
+      "108524"
+    ]
+  },
+  {
+    "id": "291854",
+    "title": "Ticket 1056",
+    "creation_time": 1587049614543,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "291853",
+    "title": "Ticket 1057",
+    "creation_time": 1587049269348,
+    "resolution": "FP",
+    "rules": [
+      "1106",
+      "108524"
+    ]
+  },
+  {
+    "id": "291852",
+    "title": "Ticket 1058",
+    "creation_time": 1587048445198,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291851",
+    "title": "Ticket 1059",
+    "creation_time": 1587048023814,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291850",
+    "title": "Ticket 1060",
+    "creation_time": 1587046566567,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291849",
+    "title": "Ticket 1061",
+    "creation_time": 1587045588632,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291848",
+    "title": "Ticket 1062",
+    "creation_time": 1587045662436,
+    "resolution": "FP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "291847",
+    "title": "Ticket 1063",
+    "creation_time": 1587045406836,
+    "resolution": "TP",
+    "rules": [
+      "1197"
+    ]
+  },
+  {
+    "id": "291846",
+    "title": "Ticket 1064",
+    "creation_time": 1587044260089,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291845",
+    "title": "Ticket 1065",
+    "creation_time": 1587044095376,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291844",
+    "title": "Ticket 1066",
+    "creation_time": 1587043965486,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291843",
+    "title": "Ticket 1067",
+    "creation_time": 1587042750917,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291842",
+    "title": "Ticket 1068",
+    "creation_time": 1587043450989,
+    "resolution": "TP",
+    "rules": [
+      "108524"
+    ]
+  },
+  {
+    "id": "291841",
+    "title": "Ticket 1069",
+    "creation_time": 1587042264109,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291840",
+    "title": "Ticket 1070",
+    "creation_time": 1587042791106,
+    "resolution": "FP",
+    "rules": [
+      "1594"
+    ]
+  },
+  {
+    "id": "291839",
+    "title": "Ticket 1071",
+    "creation_time": 1587041766990,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291838",
+    "title": "Ticket 1072",
+    "creation_time": 1587042082182,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291837",
+    "title": "Ticket 1073",
+    "creation_time": 1587042249412,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291836",
+    "title": "Ticket 1074",
+    "creation_time": 1587041153582,
+    "resolution": "TP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291835",
+    "title": "Ticket 1075",
+    "creation_time": 1587041130224,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291834",
+    "title": "Ticket 1076",
+    "creation_time": 1587041129418,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291833",
+    "title": "Ticket 1077",
+    "creation_time": 1587041080773,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291832",
+    "title": "Ticket 1078",
+    "creation_time": 1587040488589,
+    "resolution": "TP",
+    "rules": [
+      "1197",
+      "1200"
+    ]
+  },
+  {
+    "id": "291831",
+    "title": "Ticket 1079",
+    "creation_time": 1587039489240,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291830",
+    "title": "Ticket 1080",
+    "creation_time": 1587039003892,
+    "resolution": "FP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291829",
+    "title": "Ticket 1081",
+    "creation_time": 1587038986517,
+    "resolution": "TP",
+    "rules": [
+      "1200"
+    ]
+  },
+  {
+    "id": "291828",
+    "title": "Ticket 1082",
+    "creation_time": 1587039390786,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  },
+  {
+    "id": "291827",
+    "title": "Ticket 1083",
+    "creation_time": 1587038238398,
+    "resolution": "FP",
+    "rules": [
+      "1200",
+      "1197"
+    ]
+  }]

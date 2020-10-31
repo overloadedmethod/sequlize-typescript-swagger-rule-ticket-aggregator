@@ -15,18 +15,48 @@ export const sequelize = new Sequelize({
 export function InitRepo() {
   const serializeTickets = async (tickets: TicketDTO[]) => {
     console.log("serializing tickets");
-    await TicketModel.bulkCreate(tickets);
+    const tasks = tickets.map(
+      (ticket) =>
+        new Promise(async (res, rej) => {
+          try {
+            await TicketModel.create(ticket);
+            const rules = ticket.rules.map((ruleId) =>
+              EventModel.create({ ruleId, ticketId: ticket.id })
+            );
+            await Promise.all(rules);
+            res();
+          } catch (err) {
+            rej(err);
+          }
+        })
+    );
+
+    await Promise.all(tasks);
+
+    console.log("tickets serialized");
   };
   const serializeRules = async (rules: RuleDTO[]) => {
     console.log("serializing rules");
     await RuleModel.bulkCreate(rules);
+    console.log("rules serialized");
   };
   const fetchEvents = async (
-    from: string,
-    to: string
-  ): Promise<RuleEventDTO[]> => {
+    fromUnixTime: number,
+    toUnixTime: number
+  ): Promise<TicketModel[]> => {
     console.log("fetching events");
-    return Promise.resolve([]);
+    const events = await TicketModel.findAll({
+      include: [{ model: RuleModel, as: "rules" }],
+      where: {
+        creation_time: {
+          $between: [
+            new Date(fromUnixTime).toISOString(),
+            new Date(toUnixTime).toISOString(),
+          ],
+        },
+      },
+    });
+    return events.map((event) => event.toJSON()) as TicketModel[];
   };
 
   const closeConnection = async () => {

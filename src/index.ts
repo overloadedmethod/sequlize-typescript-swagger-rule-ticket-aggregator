@@ -27,6 +27,7 @@ app.get("*", function (req, res) {
 
 (async () => {
   await sequelize.sync({ force: true });
+  console.log("initializing database");
   app.listen(port, () => {
     // tslint:disable-next-line:no-console
     console.log(`server started at http://localhost:${port}`);

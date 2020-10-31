@@ -1,3 +1,5 @@
+import { TicketModel } from ".";
+
 declare global {
   namespace Express {
     export interface Request {
@@ -38,5 +40,8 @@ export type TicketDTO = {
 export type Operations = {
   serializeTickets: (tickets: TicketDTO[]) => Promise<void>;
   serializeRules: (rules: RuleDTO[]) => Promise<void>;
-  fetchEvents: (from: string, to: string) => Promise<RuleEventDTO[]>;
+  fetchEvents: (
+    fromUnixTime: number,
+    toUnixTime: number
+  ) => Promise<TicketModel[]>;
 };
