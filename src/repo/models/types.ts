@@ -6,7 +6,7 @@ declare global {
   }
 }
 
-export type Rule = {
+export type RuleDTO = {
   id: number;
   name: string;
 };
@@ -16,13 +16,18 @@ export type Resolution = {
   fp: number;
 };
 
-export type RuleEvent = {
+export type RuleEventDTO = {
   ruleName: string;
   numTickets: number[];
   resolutions: Resolution[];
 };
 
-export type Ticket = {
+export enum ResolutionEnm {
+  TP = 0,
+  FP,
+}
+
+export type TicketDTO = {
   id: number;
   title: string;
   creation_time: number;
@@ -31,7 +36,7 @@ export type Ticket = {
 };
 
 export type Operations = {
-  serializeTickets: (tickets: Ticket[]) => Promise<void>;
-  serializeRules: (rules: Rule[]) => Promise<void>;
-  fetchEvents: (from: string, to: string) => Promise<RuleEvent[]>;
+  serializeTickets: (tickets: TicketDTO[]) => Promise<void>;
+  serializeRules: (rules: RuleDTO[]) => Promise<void>;
+  fetchEvents: (from: string, to: string) => Promise<RuleEventDTO[]>;
 };

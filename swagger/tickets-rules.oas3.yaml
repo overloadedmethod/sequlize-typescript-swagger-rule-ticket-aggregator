@@ -7,25 +7,6 @@ servers:
   - url: 'http://localhost:3000'
     description: host
 paths:
-  /tickets/upload:
-    post:
-      summary: ''
-      operationId: post-tickets-upload
-      responses:
-        '200':
-          description: OK
-      requestBody:
-        content:
-          multipart/form-data:
-            schema:
-              type: array
-              description: ''
-              minItems: 1
-              uniqueItems: true
-              items:
-                $ref: '#/components/schemas/Ticket'
-      tags:
-        - tickets
   /rules/upload:
     post:
       summary: ''
@@ -48,7 +29,28 @@ paths:
               type: object
               properties: {}
       tags:
-        - rules
+        - upload
+
+  /tickets/upload:
+    post:
+      summary: ''
+      operationId: post-tickets-upload
+      responses:
+        '200':
+          description: OK
+      requestBody:
+        content:
+          multipart/form-data:
+            schema:
+              type: array
+              description: ''
+              minItems: 1
+              uniqueItems: true
+              items:
+                $ref: '#/components/schemas/Ticket'
+      tags:
+        - upload
+
   /events/days:
     parameters: []
     get:
@@ -79,7 +81,7 @@ paths:
           description: to which iso format date - on abscene till today
           allowEmptyValue: true
       tags:
-        - events
+        - fetch
   /events/weeks:
     get:
       summary: Your GET endpoint
@@ -108,7 +110,7 @@ paths:
           description: to which iso format date - on abscene till today
           allowEmptyValue: true
       tags:
-        - events
+        - fetch
     parameters: []
 components:
   schemas:
@@ -185,6 +187,5 @@ components:
   securitySchemes: {}
 security: []
 tags:
-  - name: tickets
-  - name: rules
-  - name: events
+  - name: upload
+  - name: fetch

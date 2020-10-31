@@ -1,16 +1,31 @@
-import { Rule, Ticket, RuleEvent } from "./models/types";
+import { RuleDTO, TicketDTO, RuleEventDTO } from "./models/types";
+import { Sequelize } from "sequelize-typescript";
+import {
+  Rule as RuleModel,
+  Ticket as TicketModel,
+  Event as EventModel,
+} from "./models";
 
 export function InitRepo() {
-  const serializeTickets = async (tickets: Ticket[]) => {
+  const sequelize = new Sequelize({
+    database: "some_db",
+    dialect: "sqlite",
+    username: "root",
+    password: "",
+    storage: ":memory:",
+    models: [RuleModel, TicketModel, EventModel],
+  });
+
+  const serializeTickets = async (tickets: TicketDTO[]) => {
     console.log("serializing tickets");
   };
-  const serializeRules = async (rules: Rule[]) => {
+  const serializeRules = async (rules: RuleDTO[]) => {
     console.log("serializing rules");
   };
   const fetchEvents = async (
     from: string,
     to: string
-  ): Promise<RuleEvent[]> => {
+  ): Promise<RuleEventDTO[]> => {
     console.log("fetching events");
     return Promise.resolve([]);
   };

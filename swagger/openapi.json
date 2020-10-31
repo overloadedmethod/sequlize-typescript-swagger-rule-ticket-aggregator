@@ -12,35 +12,6 @@
     }
   ],
   "paths": {
-    "/tickets/upload": {
-      "post": {
-        "summary": "",
-        "operationId": "post-tickets-upload",
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        },
-        "requestBody": {
-          "content": {
-            "multipart/form-data": {
-              "schema": {
-                "type": "array",
-                "description": "",
-                "minItems": 1,
-                "uniqueItems": true,
-                "items": {
-                  "$ref": "#/components/schemas/Ticket"
-                }
-              }
-            }
-          }
-        },
-        "tags": [
-          "tickets"
-        ]
-      }
-    },
     "/rules/upload": {
       "post": {
         "summary": "",
@@ -72,7 +43,36 @@
           }
         },
         "tags": [
-          "rules"
+          "upload"
+        ]
+      }
+    },
+    "/tickets/upload": {
+      "post": {
+        "summary": "",
+        "operationId": "post-tickets-upload",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        },
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "array",
+                "description": "",
+                "minItems": 1,
+                "uniqueItems": true,
+                "items": {
+                  "$ref": "#/components/schemas/Ticket"
+                }
+              }
+            }
+          }
+        },
+        "tags": [
+          "upload"
         ]
       }
     },
@@ -119,7 +119,7 @@
           }
         ],
         "tags": [
-          "events"
+          "fetch"
         ]
       }
     },
@@ -164,7 +164,7 @@
           }
         ],
         "tags": [
-          "events"
+          "fetch"
         ]
       },
       "parameters": []
@@ -278,13 +278,10 @@
   "security": [],
   "tags": [
     {
-      "name": "tickets"
+      "name": "upload"
     },
     {
-      "name": "rules"
-    },
-    {
-      "name": "events"
+      "name": "fetch"
     }
   ]
 }
