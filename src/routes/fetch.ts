@@ -1,4 +1,5 @@
 import { Router } from "express";
+import { repo2Dto } from "../utils";
 
 const router = Router();
 
@@ -9,42 +10,19 @@ const generateDaysBefore = (days = 7) => {
 };
 
 router.get("/days", async (req, res) => {
-  const from = req.params.from ?? generateDaysBefore();
-  const to = req.params.to ?? new Date().toISOString();
+  const from = (req.query.from as string) ?? generateDaysBefore();
+  const to = (req.query.to as string) ?? new Date().toISOString();
   const days = await req.db.fetchEvents(Date.parse(from), Date.parse(to));
 
-  res.json([
-    [
-      {
-        id: 100500,
-        title: "testing call",
-        creation_time: Date.now(),
-        resolution: "TP",
-        rules: [1050],
-      },
-    ],
-  ]);
+  const result = days.map((day) => repo2Dto(day));
+
+  res.json(result);
 });
 
 router.get("/weeks", async (req, res) => {
-  const from = req.params.from ?? generateDaysBefore(14);
-  const to = req.params.to ?? new Date().toISOString();
-  res.json([
-    {
-      id: 100500,
-      title: "testing call",
-      creation_time: Date.now(),
-      resolution: "TP",
-      rules: [1050],
-    },
-    {
-      id: 100600,
-      title: "testing call",
-      creation_time: Date.now(),
-      resolution: "TP",
-      rules: [1050, 1060],
-    },
-  ]);
+  res.send(
+    "Still not implemented, but it's not problem to turn days to weeks as we already can group events by specific day - hence what is left is to figure if the day falls to the same week of the year"
+  );
 });
 
 export default router;

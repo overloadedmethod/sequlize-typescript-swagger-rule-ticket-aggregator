@@ -60,12 +60,14 @@ paths:
         - schema:
             type: string
             format: date
+            example: '2011-10-05'
           in: query
           name: from
           description: From which iso format date
         - schema:
             type: string
             format: date
+            example: '2011-10-05'
           in: query
           name: to
           description: to which iso format date - on abscene till today
@@ -89,12 +91,14 @@ paths:
         - schema:
             type: string
             format: date
+            example: '2011-10-05'
           in: query
           name: from
           description: From which iso format date
         - schema:
             type: string
             format: date
+            example: '2011-10-05'
           in: query
           name: to
           description: to which iso format date - on abscene till today

@@ -20,7 +20,7 @@ export type Resolution = {
 
 export type RuleEventDTO = {
   ruleName: string;
-  numTickets: number[];
+  numTickets: string[];
   resolutions: Resolution[];
 };
 
