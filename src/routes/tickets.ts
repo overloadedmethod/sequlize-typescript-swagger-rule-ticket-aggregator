@@ -21,7 +21,7 @@ router.get("/days", async (req, res) => {
 router.get("/weeks", async (req, res) => {
   const from = req.params.from;
   const to = req.params.to ?? new Date().toISOString();
-  res.json([
+  res.json(
     [
       {
         id: 100500,
@@ -38,7 +38,7 @@ router.get("/weeks", async (req, res) => {
         rules: [1050, 1060],
       },
     ],
-  ]);
+  );
 });
 
 export default router;
