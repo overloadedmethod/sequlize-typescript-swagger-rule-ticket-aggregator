@@ -1,0 +1,245 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Uploading of initial data",
+    "version": "1.0",
+    "description": "Uploading of tickets and rules"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000",
+      "description": "host"
+    }
+  ],
+  "paths": {
+    "/tickets/upload": {
+      "post": {
+        "summary": "",
+        "operationId": "post-tickets-upload",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        },
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "array",
+                "description": "",
+                "minItems": 1,
+                "uniqueItems": true,
+                "items": {
+                  "$ref": "#/components/schemas/Ticket"
+                }
+              }
+            }
+          }
+        },
+        "tags": [
+          "tickets"
+        ]
+      }
+    },
+    "/rules/upload": {
+      "post": {
+        "summary": "",
+        "operationId": "post-rules-upload",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        },
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "array",
+                "description": "",
+                "minItems": 1,
+                "uniqueItems": true,
+                "items": {
+                  "$ref": "#/components/schemas/Rule"
+                }
+              }
+            },
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {}
+              }
+            }
+          }
+        },
+        "tags": [
+          "rules"
+        ]
+      }
+    },
+    "/tickets/days": {
+      "parameters": [],
+      "get": {
+        "summary": "Your GET endpoint",
+        "tags": [
+          "tickets"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "description": "",
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Ticket"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "operationId": "get-tickets-days-start-start-finish-finish",
+        "parameters": [
+          {
+            "schema": {
+              "type": "string",
+              "format": "date"
+            },
+            "in": "query",
+            "name": "from",
+            "description": "From which iso format date"
+          },
+          {
+            "schema": {
+              "type": "string",
+              "format": "date"
+            },
+            "in": "query",
+            "name": "to",
+            "description": "to which iso format date - on abscene till today",
+            "allowEmptyValue": true
+          }
+        ]
+      }
+    },
+    "/tickets/weeks": {
+      "get": {
+        "summary": "Your GET endpoint",
+        "tags": [
+          "tickets"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Ticket"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "operationId": "get-tickets-weeks",
+        "parameters": [
+          {
+            "schema": {
+              "type": "string",
+              "format": "date"
+            },
+            "in": "query",
+            "name": "from",
+            "description": "From which iso format date"
+          },
+          {
+            "schema": {
+              "type": "string",
+              "format": "date"
+            },
+            "in": "query",
+            "name": "to",
+            "description": "to which iso format date - on abscene till today",
+            "allowEmptyValue": true
+          }
+        ]
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Ticket": {
+        "title": "Ticket",
+        "type": "object",
+        "x-examples": {
+          "example-1": {
+            "id": 0,
+            "title": "string",
+            "creation_time": 0,
+            "resolution": "TP",
+            "rules": [
+              0
+            ]
+          }
+        },
+        "description": "Ticket of several combined rules",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "creation_time": {
+            "type": "number"
+          },
+          "resolution": {
+            "type": "string",
+            "enum": [
+              "TP",
+              "FP"
+            ]
+          },
+          "rules": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "Rule": {
+        "x-examples": {
+          "example-1": {
+            "id": 0,
+            "title": "string"
+          }
+        },
+        "title": "Rule",
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "number"
+          },
+          "name": {
+            "type": "string"
+          }
+        },
+        "description": "Triggered rule that is connected to tickets"
+      }
+    },
+    "securitySchemes": {}
+  },
+  "security": [],
+  "tags": [
+    {
+      "name": "tickets"
+    },
+    {
+      "name": "rules"
+    }
+  ]
+}
