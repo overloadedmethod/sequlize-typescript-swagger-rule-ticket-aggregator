@@ -7,7 +7,7 @@ servers:
   - url: 'http://localhost:3000'
     description: host
 paths:
-  /rules/upload:
+  /upload/rules:
     post:
       summary: ''
       operationId: post-rules-upload
@@ -30,8 +30,8 @@ paths:
               properties: {}
       tags:
         - upload
-
-  /tickets/upload:
+    parameters: []
+  /upload/tickets:
     post:
       summary: ''
       operationId: post-tickets-upload
@@ -50,7 +50,7 @@ paths:
                 $ref: '#/components/schemas/Ticket'
       tags:
         - upload
-
+    parameters: []
   /events/days:
     parameters: []
     get:

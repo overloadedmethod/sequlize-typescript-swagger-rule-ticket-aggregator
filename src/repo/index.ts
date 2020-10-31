@@ -18,9 +18,17 @@ export function InitRepo() {
 
   const serializeTickets = async (tickets: TicketDTO[]) => {
     console.log("serializing tickets");
+    const repo = sequelize.getRepository(TicketModel);
+    // TODO: check if it's possible to store them in batch
+    const tasks = tickets.map((ticket) => repo.create(ticket));
+    await Promise.all(tasks);
   };
   const serializeRules = async (rules: RuleDTO[]) => {
     console.log("serializing rules");
+    const repo = sequelize.getRepository(RuleModel);
+    // TODO: check if it's possible to store them in batch
+    const tasks = rules.map((rule) => repo.create(rule));
+    await Promise.all(tasks);
   };
   const fetchEvents = async (
     from: string,

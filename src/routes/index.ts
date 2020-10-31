@@ -1,1 +1,2 @@
-export { default as Tickets } from "./tickets";
+export { default as Fetch } from "./fetch";
+export { default as Upload } from "./upload";

@@ -1,7 +1,7 @@
 import express from "express";
 import swaggerUI from "swagger-ui-express";
 import * as swaggerDoc from "../swagger/openapi.json";
-import { Tickets } from "./routes";
+import { Fetch, Upload } from "./routes";
 import Repo from "./repo";
 
 const repo = Repo();
@@ -18,7 +18,8 @@ app.use(async (req, _, next) => {
   next();
 });
 
-app.use("/tickets", Tickets);
+app.use("/events", Fetch);
+app.use("/upload", Upload);
 
 app.get("*", function (req, res) {
   res.redirect("/docs");

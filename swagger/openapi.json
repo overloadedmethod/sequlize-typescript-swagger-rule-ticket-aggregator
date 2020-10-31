@@ -12,7 +12,7 @@
     }
   ],
   "paths": {
-    "/rules/upload": {
+    "/upload/rules": {
       "post": {
         "summary": "",
         "operationId": "post-rules-upload",
@@ -45,9 +45,10 @@
         "tags": [
           "upload"
         ]
-      }
+      },
+      "parameters": []
     },
-    "/tickets/upload": {
+    "/upload/tickets": {
       "post": {
         "summary": "",
         "operationId": "post-tickets-upload",
@@ -74,7 +75,8 @@
         "tags": [
           "upload"
         ]
-      }
+      },
+      "parameters": []
     },
     "/events/days": {
       "parameters": [],
