@@ -1,4 +1,4 @@
-import { RuleDTO, TicketDTO, RuleEventDTO } from "./models/types";
+import { RuleDTO, TicketDTO, RuleEventDTO, RuleEvent } from "./models/types";
 import { Sequelize } from "sequelize-typescript";
 import { RuleModel, TicketModel, EventModel } from "./models";
 
@@ -43,20 +43,27 @@ export function InitRepo() {
   const fetchEvents = async (
     fromUnixTime: number,
     toUnixTime: number
-  ): Promise<TicketModel[]> => {
+  ): Promise<RuleEvent[]> => {
     console.log("fetching events");
-    const events = await TicketModel.findAll({
-      include: [{ model: RuleModel, as: "rules" }],
-      where: {
-        creation_time: {
-          $between: [
-            new Date(fromUnixTime).toISOString(),
-            new Date(toUnixTime).toISOString(),
-          ],
+
+    const events = await RuleModel.findAll({
+      include: [
+        {
+          model: TicketModel,
+          as: "tickets",
+          attributes: ["id", "resolution", "creation_time"],
+          where: {
+            creation_time: {
+              $between: [
+                new Date(fromUnixTime).toISOString(),
+                new Date(toUnixTime).toISOString(),
+              ],
+            },
+          },
         },
-      },
+      ],
     });
-    return events.map((event) => event.toJSON()) as TicketModel[];
+    return events.map((event) => event.toJSON()) as RuleEvent[];
   };
 
   const closeConnection = async () => {

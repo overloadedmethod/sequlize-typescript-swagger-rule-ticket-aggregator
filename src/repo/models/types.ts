@@ -37,11 +37,21 @@ export type TicketDTO = {
   rules: number[];
 };
 
+export type RuleEvent = {
+  id: string;
+  name: string;
+  tickets: {
+    id: string;
+    resolution: string;
+    creation_time: string;
+  }[];
+};
+
 export type Operations = {
   serializeTickets: (tickets: TicketDTO[]) => Promise<void>;
   serializeRules: (rules: RuleDTO[]) => Promise<void>;
   fetchEvents: (
     fromUnixTime: number,
     toUnixTime: number
-  ) => Promise<TicketModel[]>;
+  ) => Promise<RuleEvent[]>;
 };
