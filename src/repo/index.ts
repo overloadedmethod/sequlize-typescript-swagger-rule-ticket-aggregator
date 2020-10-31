@@ -1,4 +1,4 @@
-import { Rule, Ticket } from "./models/types";
+import { Rule, Ticket, RuleEvent } from "./models/types";
 
 export function InitRepo() {
   const serializeTickets = async (tickets: Ticket[]) => {
@@ -7,8 +7,12 @@ export function InitRepo() {
   const serializeRules = async (rules: Rule[]) => {
     console.log("serializing rules");
   };
-  const fetchTickets = async (from: string, to: string) => {
-    console.log("fetching tickets");
+  const fetchEvents = async (
+    from: string,
+    to: string
+  ): Promise<RuleEvent[]> => {
+    console.log("fetching events");
+    return Promise.resolve([]);
   };
 
   const closeConnection = async () => {
@@ -21,7 +25,7 @@ export function InitRepo() {
     return Promise.resolve({
       serializeTickets,
       serializeRules,
-      fetchTickets,
+      fetchEvents,
     });
   };
 

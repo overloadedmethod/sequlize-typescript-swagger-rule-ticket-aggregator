@@ -76,13 +76,10 @@
         ]
       }
     },
-    "/tickets/days": {
+    "/events/days": {
       "parameters": [],
       "get": {
         "summary": "Your GET endpoint",
-        "tags": [
-          "tickets"
-        ],
         "responses": {
           "200": {
             "description": "OK",
@@ -92,7 +89,7 @@
                   "description": "",
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Ticket"
+                    "$ref": "#/components/schemas/RuleEvent"
                   }
                 }
               }
@@ -120,15 +117,15 @@
             "description": "to which iso format date - on abscene till today",
             "allowEmptyValue": true
           }
+        ],
+        "tags": [
+          "events"
         ]
       }
     },
-    "/tickets/weeks": {
+    "/events/weeks": {
       "get": {
         "summary": "Your GET endpoint",
-        "tags": [
-          "tickets"
-        ],
         "responses": {
           "200": {
             "description": "OK",
@@ -137,7 +134,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Ticket"
+                    "$ref": "#/components/schemas/RuleEvent"
                   }
                 }
               }
@@ -165,8 +162,12 @@
             "description": "to which iso format date - on abscene till today",
             "allowEmptyValue": true
           }
+        ],
+        "tags": [
+          "events"
         ]
-      }
+      },
+      "parameters": []
     }
   },
   "components": {
@@ -229,6 +230,47 @@
           }
         },
         "description": "Triggered rule that is connected to tickets"
+      },
+      "RuleEvent": {
+        "description": "",
+        "type": "object",
+        "properties": {
+          "ruleName": {
+            "type": "string",
+            "minLength": 1
+          },
+          "numTickets": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            }
+          },
+          "resolutions": {
+            "type": "array",
+            "uniqueItems": true,
+            "minItems": 0,
+            "items": {
+              "type": "object",
+              "properties": {
+                "tp": {
+                  "type": "number"
+                },
+                "fp": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "tp",
+                "fp"
+              ]
+            }
+          }
+        },
+        "required": [
+          "ruleName",
+          "numTickets",
+          "resolutions"
+        ]
       }
     },
     "securitySchemes": {}
@@ -240,6 +282,9 @@
     },
     {
       "name": "rules"
+    },
+    {
+      "name": "events"
     }
   ]
 }

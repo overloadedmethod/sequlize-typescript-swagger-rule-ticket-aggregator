@@ -49,12 +49,10 @@ paths:
               properties: {}
       tags:
         - rules
-  /tickets/days:
+  /events/days:
     parameters: []
     get:
       summary: Your GET endpoint
-      tags:
-        - tickets
       responses:
         '200':
           description: OK
@@ -64,7 +62,7 @@ paths:
                 description: ''
                 type: array
                 items:
-                  $ref: '#/components/schemas/Ticket'
+                  $ref: '#/components/schemas/RuleEvent'
       operationId: get-tickets-days-start-start-finish-finish
       parameters:
         - schema:
@@ -80,11 +78,11 @@ paths:
           name: to
           description: to which iso format date - on abscene till today
           allowEmptyValue: true
-  /tickets/weeks:
+      tags:
+        - events
+  /events/weeks:
     get:
       summary: Your GET endpoint
-      tags:
-        - tickets
       responses:
         '200':
           description: OK
@@ -93,7 +91,7 @@ paths:
               schema:
                 type: array
                 items:
-                  $ref: '#/components/schemas/Ticket'
+                  $ref: '#/components/schemas/RuleEvent'
       operationId: get-tickets-weeks
       parameters:
         - schema:
@@ -109,6 +107,9 @@ paths:
           name: to
           description: to which iso format date - on abscene till today
           allowEmptyValue: true
+      tags:
+        - events
+    parameters: []
 components:
   schemas:
     Ticket:
@@ -152,8 +153,38 @@ components:
         name:
           type: string
       description: Triggered rule that is connected to tickets
+    RuleEvent:
+      description: ''
+      type: object
+      properties:
+        ruleName:
+          type: string
+          minLength: 1
+        numTickets:
+          type: array
+          items:
+            type: number
+        resolutions:
+          type: array
+          uniqueItems: true
+          minItems: 0
+          items:
+            type: object
+            properties:
+              tp:
+                type: number
+              fp:
+                type: number
+            required:
+              - tp
+              - fp
+      required:
+        - ruleName
+        - numTickets
+        - resolutions
   securitySchemes: {}
 security: []
 tags:
   - name: tickets
   - name: rules
+  - name: events
