@@ -3,12 +3,12 @@ import swaggerUI from "swagger-ui-express";
 import * as swaggerDoc from "../swagger/openapi.json";
 import { Fetch, Upload } from "./routes";
 import Repo, { sequelize } from "./repo";
-
+import bodyParser from "body-parser";
 const repo = Repo();
 
 const app = express();
 const port = 3000;
-
+app.use(bodyParser.json({ limit: "50mb" }));
 app.use("/docs", swaggerUI.serve, swaggerUI.setup(swaggerDoc));
 
 app.use(async (req, _, next) => {

@@ -23,21 +23,12 @@
         },
         "requestBody": {
           "content": {
-            "multipart/form-data": {
+            "application/json": {
               "schema": {
                 "type": "array",
-                "description": "",
-                "minItems": 1,
-                "uniqueItems": true,
                 "items": {
                   "$ref": "#/components/schemas/Rule"
                 }
-              }
-            },
-            "application/json": {
-              "schema": {
-                "type": "object",
-                "properties": {}
               }
             }
           }
@@ -57,24 +48,21 @@
             "description": "OK"
           }
         },
+        "tags": [
+          "upload"
+        ],
         "requestBody": {
           "content": {
-            "multipart/form-data": {
+            "application/json": {
               "schema": {
                 "type": "array",
-                "description": "",
-                "minItems": 1,
-                "uniqueItems": true,
                 "items": {
                   "$ref": "#/components/schemas/Ticket"
                 }
               }
             }
           }
-        },
-        "tags": [
-          "upload"
-        ]
+        }
       },
       "parameters": []
     },

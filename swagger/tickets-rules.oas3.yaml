@@ -16,18 +16,11 @@ paths:
           description: OK
       requestBody:
         content:
-          multipart/form-data:
-            schema:
-              type: array
-              description: ''
-              minItems: 1
-              uniqueItems: true
-              items:
-                $ref: '#/components/schemas/Rule'
           application/json:
             schema:
-              type: object
-              properties: {}
+              type: array
+              items:
+                $ref: '#/components/schemas/Rule'
       tags:
         - upload
     parameters: []
@@ -38,18 +31,15 @@ paths:
       responses:
         '200':
           description: OK
-      requestBody:
-        content:
-          multipart/form-data:
-            schema:
-              type: array
-              description: ''
-              minItems: 1
-              uniqueItems: true
-              items:
-                $ref: '#/components/schemas/Ticket'
       tags:
         - upload
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: array
+              items:
+                $ref: '#/components/schemas/Ticket'
     parameters: []
   /events/days:
     parameters: []

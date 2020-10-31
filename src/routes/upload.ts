@@ -1,11 +1,14 @@
 import { Router } from "express";
-import multer from "multer";
 
-const upload = multer({ dest: "uploads/" });
 const router = Router();
 
-router.post("/rules", upload.array("rules"), async (req, res) => {
-  await req.db.serializeRules(Object.values(req.body));
+router.post("/rules", async (req, res) => {
+  await req.db.serializeRules(req.body);
+  res.sendStatus(200);
+});
+
+router.post("/tickets", async (req, res) => {
+  await req.db.serializeTickets(req.body);
   res.sendStatus(200);
 });
 

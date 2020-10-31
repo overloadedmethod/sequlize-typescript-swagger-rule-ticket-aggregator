@@ -29,7 +29,7 @@ export class TicketModel extends Model<TicketModel> {
   @CreatedAt
   creation_time: Date;
   @Column
-  resolution: number;
+  resolution: string;
   @BelongsToMany(() => RuleModel, () => EventModel)
   rules: RuleModel[];
 }
